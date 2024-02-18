@@ -1,4 +1,5 @@
 ---
+title: "About"
 from: markdown+emoji
 about:
   template: jolla
@@ -11,6 +12,7 @@ about:
       text: Website
       href: https://oleksadreval.com
 ---
+
 
 Hi! :wave:
 <br/>
