@@ -1,0 +1,46 @@
+---
+title: "Web Design & UI/UX"
+filters:
+    - lightbox
+lightbox: auto
+---
+
+#UI #webdesign #branding
+
+<br/><br/>
+
+::: gallery
+
+::: column-page
+
+```{r}
+#| echo: false
+#| eval: false
+wd <- getwd()
+this_set <- "src/images/web_uiux/"
+files <- list.files(
+    paste0(wd, "/", this_set)
+)
+
+for (f in files){
+    cat(
+        paste0(
+            "![](",
+            this_set,
+            f,
+            "){style=\"column-span: none; border-radius: 30px;\" group=\"my-gallery\"}\n"
+        )
+    )
+}
+```
+
+
+![](src/images/web_uiux/25daysofcelebrity_landingpage.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/web_uiux/3ag_website.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/web_uiux/fortiq_website.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/web_uiux/mimikwebsite.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+
+
+:::
+
+:::

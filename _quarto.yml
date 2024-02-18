@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Oleksandra Dreval: Motion Graphics Design and animation"
+  image: src/images/ODLogoNoCircle.png
+  favicon: src/images/ODLogoNoCircle.png
+  back-to-top-navigation: true
+  page-navigation: true
+  search: false
+  navbar:
+    background: "#000000"
+    logo: src/images/ODLogoNoCircle.png
+    logo-alt: "Oleksandra Dreval"
+    title: false
+    collapse-below: lg
+    right:
+      - index.qmd
+      - text: "Demo Reels"
+        href: demo_reels.qmd
+      - text: "Motion Graphics & VFX"
+        menu:
+        - text: "Motion Graphics"
+          href: motion_graphics.qmd
+        - text: "Compositing & Breakdowns"
+          href: compositing_breakdowns.qmd
+        - text: "Digital Media"
+          href: digital_media.qmd
+      - text: "Graphic design & GFX"
+        menu:
+        - text: "Graphic design & Social media GFX"
+          href: graphic_design_social_media_gfx.qmd
+        - text: "Print & Branding"
+          href: print_branding.qmd
+        - text: "Web Design & UI/UX"
+          href: web_uiux.qmd
+      - text: "Illustrations & Digital art"
+        href: illustrations_digital.qmd
+
+  page-footer:
+    background: "#000000"
+    left: "Copyright 2024, Oleksandra Dreval"
+    right:
+      - icon: home
+        href: https://oleksadreval.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/oleksandra-dreval-ba740a149/
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+    grid:
+      margin-width: 100px
+
+
+

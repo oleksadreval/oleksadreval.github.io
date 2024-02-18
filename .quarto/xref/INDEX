@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "c57a5f99"
+  },
+  "motion_graphics.qmd": {
+    "motion_graphics.html": "abbb0ee7"
+  },
+  "about.qmd": {
+    "about.html": "f83cee1a"
+  },
+  "demo_reels.qmd": {
+    "demo_reels.html": "d733c2e2"
+  },
+  "compositing_vfx_breakdown.qmd": {
+    "compositing_vfx_breakdown.html": "a17b56c7"
+  },
+  "template.qmd": {
+    "template.html": "ccd81301"
+  },
+  "digital_media.qmd": {
+    "digital_media.html": "c34b0cb7"
+  },
+  "print_branding.qmd": {
+    "print_branding.html": "9ded2791"
+  },
+  "graphic_design_social_media_gfx.qmd": {
+    "graphic_design_social_media_gfx.html": "4f33f8a7"
+  },
+  "web_uiux.qmd": {
+    "web_uiux.html": "9660345b"
+  },
+  "illustrations_digital.qmd": {
+    "illustrations_digital.html": "e734080d"
+  },
+  "compositing_breakdowns.qmd": {
+    "compositing_breakdowns.html": "63cee846"
+  }
+}

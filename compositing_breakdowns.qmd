@@ -1,0 +1,22 @@
+---
+title: "Compositing & Breakdowns"
+---
+
+<br/><br/>
+
+Here are breakdown videos of some small projects I made while working on freelance projects that are not protected by non-disclosure agreements. #motiongraphics #vfx #compositing
+
+{{< video https://www.youtube.com/embed/ac7yEJvwQXs?si=I4pHkPLEG9azyplW
+    title="Unknown land behind the door Breakdown"
+    start="0"
+    aspect-ratio="16x9" 
+>}}
+
+
+<br/><br/>
+
+{{< video https://youtu.be/a3DimTD-0vY
+    title="Rocks and fire Breakdown"
+    start="0"
+    aspect-ratio="16x9" 
+>}}

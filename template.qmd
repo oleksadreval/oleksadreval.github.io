@@ -1,0 +1,35 @@
+---
+title: "Some plots"
+filters:
+    - lightbox
+lightbox: auto
+---
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<br/><br/>
+
+::: gallery
+
+::: column-page
+
+![](src/images/800x1200.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/900x1100.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/1000x1000.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/700x800.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+
+![](src/images/800x700.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/1200x1800.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/1100x900.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/1200x800.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/600x900.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+
+![](src/images/900x600.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/1600x1400.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/1800x1200.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/1400x1600.jpeg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+
+:::
+
+:::

@@ -1,0 +1,11 @@
+.gallery > div {
+    columns: 3 12rem;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+.gallery img {
+    display:block;
+    width:100%;
+    margin-bottom: 0.5rem;
+  }

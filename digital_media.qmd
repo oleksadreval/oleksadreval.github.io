@@ -1,0 +1,38 @@
+---
+title: "Motion Graphics"
+---
+
+All motion graphics was done in Adobe CC and Cinema 4D.
+Promo videos for REELZ Channel made in collaboration  with team of video editors. Motion Graphics, assets, animation, special effects, and keying are done by me.
+#motiongraphicsdesign #socialmedia #graphicdesign #branddesign
+
+{{< video https://www.youtube.com/embed/hRS4FY_Qc9I?si=VCRfRK_7wWVEAyfJ
+    title="Snow Globe"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+{{< video https://www.youtube.com/embed/sRdV18-qPc4?si=epfn24jLxF0yERjm
+    title="REELZ Dr Hunter"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+{{< video https://www.youtube.com/embed/F_l3bez498w?si=CRQj0oaXHbLBmbCD
+    title="Abstract form"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+{{< video https://www.youtube.com/embed/IjD0HcAjrV8?si=KaeU_LD-P5Pk2KY3
+    title="Scateboard"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+{{< video https://www.youtube.com/embed/gTsCusXrpP4?si=dRypRAdJqWH2FvTt
+    title="FORTIQ Alarms"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+{{< video https://www.youtube.com/embed/x1kqbKBTcbM?si=M6VsIFpjQLOF9-R-
+    title="Halloween ID"
+    start="0"
+    aspect-ratio="16x9"
+>}}

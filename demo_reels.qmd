@@ -1,0 +1,28 @@
+---
+title: "Demo reels"
+---
+
+<br/><br/>
+
+# MOTION GRAPHICS DEMO REEL
+
+Made while working on variety of projects for different companies and freelance opportunities. #motiongraphics #production
+
+{{< video https://youtu.be/umEOmTxUK50
+    title="Motion Graphics Demo Reel"
+    start="0"
+    aspect-ratio="16x9" 
+>}}
+
+
+<br/><br/>
+
+# ANIMATION DEMO REEL
+
+Made while working on variety of projects for game development, freelance opportunities, and art contests. #gamedesign #animation #illustrations
+
+{{< video https://youtu.be/Fd50kusM8Og
+    title="Animation Demo Reel"
+    start="0"
+    aspect-ratio="16x9" 
+>}}

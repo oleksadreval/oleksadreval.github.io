@@ -1,0 +1,14 @@
+{
+  "hash": "03671ba94de7d2eae50fa56af1452590",
+  "result": {
+    "markdown": "---\ntitle: \"Web Design & UI/UX\"\nfilters:\n    - lightbox\nlightbox: auto\n---\n\n\n#UI #webdesign #branding\n\n<br/><br/>\n\n::: gallery\n\n::: column-page\n\n\n::: {.cell}\n\n:::\n\n\n\n![](src/images/web_uiux/25daysofcelebrity_landingpage.jpg){style=\"column-span: none; border-radius: 30px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/3ag_website.jpg){style=\"column-span: none; border-radius: 30px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/fortiq_website.jpg){style=\"column-span: none; border-radius: 30px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/mimikwebsite.jpg){style=\"column-span: none; border-radius: 30px;\" group=\"my-gallery\"}\n\n\n:::\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
