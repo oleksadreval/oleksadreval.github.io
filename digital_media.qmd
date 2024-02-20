@@ -6,6 +6,46 @@ All motion graphics was done in Adobe Creative Suite and Cinema 4D.
 Promo videos for REELZ Channel made in collaboration  with team of video editors. Motion Graphics, assets, animation, special effects, and keying are done by me.
 #motiongraphicsdesign #socialmedia #graphicdesign #branddesign
 
+{{< video src/videos/digital_media/aut_social_1080x1080.mp4
+    title="Autopsy"
+    start="0"
+    aspect-ratio="9x9"
+>}}
+{{< video src/videos/digital_media/bcd_ghostbusters_socialvideo_1080x1080.mp4
+    title="Ghostbusters"
+    start="0"
+    aspect-ratio="9x9"
+>}}
+{{< video src/videos/digital_media/btb_verticalvideo_combo_spisegirls_nkob_sun_v01.mp4
+    title="Spice Girls"
+    start="0"
+    aspect-ratio="5x9"
+>}}
+{{< video src/videos/digital_media/cher_doyoubelive_socialvideo_1080x1080_18sec.mp4
+    title="Cher"
+    start="0"
+    aspect-ratio="9x9"
+>}}
+{{< video src/videos/digital_media/mmf_newnight_mondays_1024x512.mp4
+    title="Murder made me famous Show ad"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+{{< video src/videos/digital_media/murderbythenumbers_pabloescobar_sound.mp4
+    title="Murder by the numbers Show ad"
+    start="0"
+    aspect-ratio="9x9"
+>}}
+{{< video src/videos/digital_media/sharkterror_insta_1080x1080.mp4
+    title="Shark terror"
+    start="0"
+    aspect-ratio="9x9"
+>}}
+{{< video src/videos/digital_media/ThanksgivingGFX_1080x1080.mp4
+    title="Thanksgiving Insta post"
+    start="0"
+    aspect-ratio="9x9"
+>}}
 {{< video https://www.youtube.com/embed/hRS4FY_Qc9I?si=VCRfRK_7wWVEAyfJ
     title="Snow Globe"
     start="0"
