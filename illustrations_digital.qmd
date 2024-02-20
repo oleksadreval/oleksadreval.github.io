@@ -5,6 +5,7 @@ filters:
 lightbox: auto
 ---
 
+<br/>
 Character design and 3D modeling, storytelling, game world maps and game assets. #illustrations #characterdesign #gamedesign
 
 <br/><br/>

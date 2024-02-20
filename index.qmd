@@ -8,9 +8,12 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/oleksandra-dreval-ba740a149/
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCM7RvYC0Huahd_RZ4vDhCxw
     - icon: home
-      text: Website
-      href: https://oleksadreval.com
+      text: Art Station
+      href: https://www.artstation.com/aleksandradreval
 ---
 
 Hi! :wave:
