@@ -66,11 +66,6 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
     start="0"
     aspect-ratio="16x9"
 >}}
-{{< video https://www.youtube.com/embed/C-zGZJag4tc?si=WHOh7MLQIboc3Bkd
-    title="REELZ TV ad JL"
-    start="0"
-    aspect-ratio="16x9"
->}}
 {{< video https://www.youtube.com/embed/0UN0tZfe2iM?si=pIQ2M5Ntw7lbFOn5
     title="mimik IBM"
     start="0"
