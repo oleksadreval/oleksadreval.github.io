@@ -14,6 +14,11 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 ![](src/videos/digital_media/murderbythenumbers_pabloescobar_sound.mp4)
 ![](src/videos/digital_media/sharkterror_insta_1080x1080.mp4)
 ![](src/videos/digital_media/ThanksgivingGFX_1080x1080.mp4)
+{{< video https://www.youtube.com/embed/2nGPLPwdJMU?si=fTofawYWFS24mnSK
+    title="Varsity Blues College Admission Scandal Intro"
+    start="0"
+    aspect-ratio="16x9"
+>}}
 {{< video https://www.youtube.com/embed/hRS4FY_Qc9I?si=VCRfRK_7wWVEAyfJ
     title="Snow Globe"
     start="0"

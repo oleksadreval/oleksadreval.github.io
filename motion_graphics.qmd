@@ -21,6 +21,16 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
     start="0"
     aspect-ratio="16x9"
 >}}
+{{< video https://www.youtube.com/embed/C-zGZJag4tc?si=g4zYPqNUzDNuQZfk
+    title="Jennifer Lopez promo"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+{{< video https://www.youtube.com/embed/tV-ya1nzqo4?si=LZ8JzgUGKWhgcrdt
+    title="Notorious"
+    start="0"
+    aspect-ratio="16x9"
+>}}
 {{< video https://www.youtube.com/embed/ftEu5YJ0bTo?si=vHEQ4_cbcCXsZrYl
     title="3AG Systems ERP"
     start="0"
