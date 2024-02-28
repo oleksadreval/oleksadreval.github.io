@@ -37,6 +37,7 @@ for (f in files){
 
 ![](src/images/gd_social_media/InnerPower.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
 ![](src/images/gd_social_media/FreeYogaMat.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/gd_social_media/PublicLibrary_GFX.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
 ![](src/images/gd_social_media/3ag_generic_manufacturing.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
 ![](src/images/gd_social_media/audreyhepburn_birthdaygraphic_1920x1080.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
 ![](src/images/gd_social_media/brocolli.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
