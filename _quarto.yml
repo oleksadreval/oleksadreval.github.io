@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-XY7N52R9B3"
   title: "Oleksandra Dreval: Motion Graphics Design and animation"
   image: src/images/ODLogoNoCircle.png
   favicon: src/images/ODLogoNoCircle.png
