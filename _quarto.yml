@@ -17,9 +17,9 @@ website:
     title: false
     collapse-below: lg
     right:
-      - index.qmd
+      - about.qmd
       - text: "Demo Reels"
-        href: demo_reels.qmd
+        href: index.qmd
       - text: "Motion Graphics & VFX"
         menu:
         - text: "Motion Graphics"

@@ -1,0 +1,55 @@
+---
+title: "About"
+from: markdown+emoji
+about:
+  template: jolla
+  image: src/images/od.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/oleksandra-dreval-ba740a149/
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCM7RvYC0Huahd_RZ4vDhCxw
+    - icon: home
+      text: Art Station
+      href: https://www.artstation.com/aleksandradreval
+---
+
+Hi! :wave:
+<br/>
+I am Motion Graphics Designer :clapper: experienced in animation :boom:, branding :art:, production :tophat:, games :video_game:, and UI/UX design :computer:. I create awesome motion graphics for TV, marketing, and social media. Besides that I am a universe lover always eager to learn new cool stuff and grow my skills!
+<br/>
+I am originally from Ukraine, but have travelled the world since 2014 and gained experience working for variety of companies in different markets across 2 continents. Now I live in Vancouver area of beautiful BC, Canada. :bear:
+
+## Experience
+
+3AG Systems | Lead Graphic Designer | Burnaby, BC :canada: | 2021 - present
+
+mimik Technologies Inc | Graphic Designer | Vancouver, BC :canada: | 2021 - 2021
+
+Wawybrain Studios LLC | Animator/Illustrator | Albuquerque, NM :us: | 2020 - 2021
+
+REELZ TV | Motion Graphics Designer | Albuquerque, NM :us: | 2018 - 2020
+
+Universal Phoenix Group | 3D Animator | Atlanta, GA :us:| 2017 - 2017
+
+RightBrain Training | Graphic Designer | Kyiv :ukraine: | 2014 - 2017
+
+## Skills
+
+Motion Graphics | Graphic Design | Adobe Creative Suite | 2D/2.5/3D animation | Styling | Branding and visual identity | Print production/prepress | Tracking | Rotoscoping | UI/UX design (both mobile/desktop) | Typography | Layout | Color | Composition
+
+## Software
+
+Adobe Creative Suite: Photoshop, Illustrator, After Effects, Premiere Pro, InDesign, XD, etc
+
+3D modelling and animation: Cinema 4D, Red Giant, Autodesk Maya, Blender, Zbrush
+
+Other: Figma, Unreal Engine, HTML/CSS, Midjourney, BlueWillow
+
+## Education
+
+MSc in Computer Graphics and Design | Step IT Academy | Donetsk, Ukraine
+
+MSc in Biology | Donetsk National University | Donetsk, Ukraine
