@@ -27,6 +27,11 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
     start="0"
     aspect-ratio="16x9"
 >}}
+{{< video https://www.youtube.com/embed/uRReeKHIr68?si=65HhFRq14wIaPsN-
+    title="Fun!"
+    start="0"
+    aspect-ratio="16x9"
+>}}
 {{< video https://www.youtube.com/embed/T5Mcs83e2Wg?si=S3ZIaP86W9-cw6RP
     title="Orca Title"
     start="0"
