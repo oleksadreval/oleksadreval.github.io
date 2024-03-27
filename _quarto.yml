@@ -17,7 +17,8 @@ website:
     title: false
     collapse-below: lg
     right:
-      - about.qmd
+      - text: "About"
+        href: about.qmd
       - text: "Demo Reels"
         href: index.qmd
       - text: "Motion Graphics & VFX"
@@ -50,7 +51,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: [lux, theme.scss]
     css: styles.css
     toc: false
     grid:
