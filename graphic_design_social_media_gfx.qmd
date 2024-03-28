@@ -29,54 +29,54 @@ for (f in files){
             "![](",
             this_set,
             f,
-            "){style=\"column-span: none; border-radius: 30px;\" group=\"my-gallery\"}\n"
+            "){style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n"
         )
     )
 }
 ```
 
-![](src/images/gd_social_media/InnerPower.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/FreeYogaMat.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/PublicLibrary_GFX.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/3ag_generic_manufacturing.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/audreyhepburn_birthdaygraphic_1920x1080.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/brocolli.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/btb_socialtest_theincident_01-copy.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/btb_socialtest_theincident_suns109.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/castomersreviewfacebook.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/chinesetea.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/clustersandclouds.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/dataseries_video1.png){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/fresherthanfreshcarrot.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/fresherthanfreshlemon.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/fresherthanfreshpineapple.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/gfxfacebook.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/headphones_1.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/headphones_2.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/headphones_3.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/headphones_4.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/insta_story_bcd_ghostbusters_35anniversary_1080x1920.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/mimikwhitecloudstocloudcropslide.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/navigating-the-next-frontier-in-supervisory-control.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/newsletter_aut_carriefisher_crs_harrisonford_v3.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/newsletter_ptm_leatharweapon.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/paytellimitedofferinstastory.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/planning.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/podcast-fay-1695x960.png){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/reelz_collisioncourse_small.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/robinwilliams_5years_1080x1080.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/scateboad.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/socialmedia.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/storyoneweekgfx-1080x1920---1.png){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/storytomorrowgfx-1080x1920---1.png){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/tmobilestoryboard.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/understanding-the-leap-from-traditional-scada-to-iot-enabled-systems-1_page_04.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/understanding-the-leap-from-traditional-scada-to-iot-enabled-systems-1_page_10.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/vr_graphics-recoveredsmall.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/webinarjuly12.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/webinarlivedemo.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/whitneyhoustonmemorialgraphic1920x1080v02.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/gd_social_media/worker-safety-manufacturing.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/gd_social_media/InnerPower.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/FreeYogaMat.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/PublicLibrary_GFX.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/3ag_generic_manufacturing.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/audreyhepburn_birthdaygraphic_1920x1080.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/brocolli.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/btb_socialtest_theincident_01-copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/btb_socialtest_theincident_suns109.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/castomersreviewfacebook.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/chinesetea.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/clustersandclouds.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/dataseries_video1.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/fresherthanfreshcarrot.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/fresherthanfreshlemon.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/fresherthanfreshpineapple.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/gfxfacebook.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/headphones_1.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/headphones_2.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/headphones_3.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/headphones_4.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/insta_story_bcd_ghostbusters_35anniversary_1080x1920.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/mimikwhitecloudstocloudcropslide.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/navigating-the-next-frontier-in-supervisory-control.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/newsletter_aut_carriefisher_crs_harrisonford_v3.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/newsletter_ptm_leatharweapon.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/paytellimitedofferinstastory.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/planning.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/podcast-fay-1695x960.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/reelz_collisioncourse_small.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/robinwilliams_5years_1080x1080.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/scateboad.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/socialmedia.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/storyoneweekgfx-1080x1920---1.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/storytomorrowgfx-1080x1920---1.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/tmobilestoryboard.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/understanding-the-leap-from-traditional-scada-to-iot-enabled-systems-1_page_04.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/understanding-the-leap-from-traditional-scada-to-iot-enabled-systems-1_page_10.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/vr_graphics-recoveredsmall.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/webinarjuly12.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/webinarlivedemo.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/whitneyhoustonmemorialgraphic1920x1080v02.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/worker-safety-manufacturing.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 
 
 :::

@@ -27,3 +27,8 @@ div {
     border-radius: 20px;
     overflow: clip;
 }
+
+.nav-tabs .nav-item .nav-link.active {
+  background-color: #000000;
+  color: white;
+}

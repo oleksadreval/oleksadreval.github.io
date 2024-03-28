@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Oleksandra Dreval"
 from: markdown+emoji
 about:
   template: jolla
@@ -16,12 +16,17 @@ about:
       href: https://www.artstation.com/aleksandradreval
 ---
 
+<div style="text-align: justify">
 Hi! :wave:
 <br/>
 I am Motion Graphics Designer :clapper: experienced in animation :boom:, branding :art:, production :tophat:, games :video_game:, and UI/UX design :computer:. I create awesome motion graphics for TV, marketing, and social media. Besides that I am a universe lover always eager to learn new cool stuff and grow my skills!
 <br/>
 I am originally from Ukraine, but have travelled the world since 2014 and gained experience working for variety of companies in different markets across 2 continents. Now I live in Vancouver area of beautiful BC, Canada. :bear:
+</div>
 
+<br/><br/>
+
+:::{.panel-tabset}
 ## Experience
 
 3AG Systems | Lead Graphic Designer | Burnaby, BC :canada: | 2021 - present
@@ -50,6 +55,8 @@ Other: Figma, Unreal Engine, HTML/CSS, Midjourney, BlueWillow
 
 ## Education
 
-MSc in Computer Graphics and Design | Step IT Academy | Donetsk, Ukraine
+MSc in Computer Graphics and Design | Step IT Academy | Ukraine :ukraine:
 
-MSc in Biology | Donetsk National University | Donetsk, Ukraine
+MSc in Biology | Donetsk National University | Ukraine :ukraine:
+
+:::

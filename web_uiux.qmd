@@ -28,17 +28,17 @@ for (f in files){
             "![](",
             this_set,
             f,
-            "){style=\"column-span: none; border-radius: 30px;\" group=\"my-gallery\"}\n"
+            "){style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n"
         )
     )
 }
 ```
 
 
-![](src/images/web_uiux/25daysofcelebrity_landingpage.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/web_uiux/3ag_website.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/web_uiux/fortiq_website.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
-![](src/images/web_uiux/mimikwebsite.jpg){style="column-span: none; border-radius: 30px;" group="my-gallery"}
+![](src/images/web_uiux/25daysofcelebrity_landingpage.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/web_uiux/3ag_website.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/web_uiux/fortiq_website.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/web_uiux/mimikwebsite.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 
 
 :::
