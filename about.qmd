@@ -14,6 +14,10 @@ about:
     - icon: home
       text: Art Station
       href: https://www.artstation.com/aleksandradreval
+    - icon: github
+      text: GitHub
+      href: https://github.com/oleksadreval
+
 ---
 
 <div style="text-align: justify">
