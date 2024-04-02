@@ -104,6 +104,13 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 :::{.column width="49%"}
 
 <div class="player">
+{{< video https://www.youtube.com/embed/fSj7KrC2AaY?si=EM5aPP_jd0t1izm4
+    title="FORTIQ 7 eyes"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
 {{< video https://www.youtube.com/embed/RYNSlW9THPA?si=3cOq4OngH9AQ0rYW
     title="FORTIQ Demo Reel"
     start="0"
