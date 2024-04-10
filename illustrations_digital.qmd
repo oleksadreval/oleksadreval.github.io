@@ -42,9 +42,10 @@ for (f in files){
 ![](src/images/illustrations_digital/clairekeyart_small.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/comicbook_wip_final.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/conceptartcollage-small.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/illustrations_digital/conceptartladybug.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/illustrations_digital/conceptartladybug2.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/conceptatr_all2d_3d_small.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/RenderColageHippieTexture.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/conceptartladybug2.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/conceptartladybug.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/davekeyart_v2-copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/download-1.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/download.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
@@ -52,6 +53,7 @@ for (f in files){
 ![](src/images/illustrations_digital/girldogowl-copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/img_0253.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/img_1009.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/Girl20s.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/img_1397.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/img_1398.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/img_1399.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
