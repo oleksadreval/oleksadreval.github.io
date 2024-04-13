@@ -48,9 +48,12 @@ for (f in files){
 ![](src/images/illustrations_digital/conceptartladybug.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/davekeyart_v2-copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/download-1.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/illustrations_digital/download.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/game.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/download.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/girldogowl-copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/3WorldMap.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/1Building19_3Levels.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/illustrations_digital/2Building7_3Levels.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/img_0253.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/img_1009.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/illustrations_digital/Girl20s.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
