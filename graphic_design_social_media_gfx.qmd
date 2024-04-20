@@ -46,7 +46,6 @@ for (f in files){
 ![](src/images/gd_social_media/castomersreviewfacebook.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/chinesetea.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/clustersandclouds.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/gd_social_media/dataseries_video1.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/fresherthanfreshcarrot.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/fresherthanfreshlemon.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/fresherthanfreshpineapple.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
@@ -67,6 +66,12 @@ for (f in files){
 ![](src/images/gd_social_media/robinwilliams_5years_1080x1080.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/scateboad.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/socialmedia.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/7EyesProcess_gfx.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/CrazyData.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/FingerPointing.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/EnergyConservation.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/EnergyEnergyUnderControl.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/SCADA.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/storyoneweekgfx-1080x1920---1.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/storytomorrowgfx-1080x1920---1.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/tmobilestoryboard.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
@@ -77,7 +82,7 @@ for (f in files){
 ![](src/images/gd_social_media/webinarlivedemo.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/whitneyhoustonmemorialgraphic1920x1080v02.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/worker-safety-manufacturing.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-
+![](src/images/gd_social_media/dataseries_video1.png){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 
 :::
 
