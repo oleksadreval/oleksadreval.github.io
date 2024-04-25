@@ -18,6 +18,13 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 >}}
 </div>
 <div class="player">
+{{< video https://www.youtube.com/embed/MDRSXpIVC6E?si=fWbAz3RDJN2tXEe3
+    title="Mysterious forest"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
 {{< video https://www.youtube.com/embed/fuTbnYJJz18?si=ca_uThB_FpFZlrb2
     title="Music dance"
     start="0"
@@ -27,13 +34,6 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 <div class="player">
 {{< video https://www.youtube.com/embed/47II_tGXmZU?si=t4BZfNp0QnAYkvft
     title="Tennis"
-    start="0"
-    aspect-ratio="16x9"
->}}
-</div>
-<div class="player">
-{{< video https://www.youtube.com/embed/MDRSXpIVC6E?si=fWbAz3RDJN2tXEe3
-    title="Mysterious forest"
     start="0"
     aspect-ratio="16x9"
 >}}
