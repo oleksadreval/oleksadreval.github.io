@@ -32,13 +32,6 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 >}}
 </div>
 <div class="player">
-{{< video https://www.youtube.com/embed/47II_tGXmZU?si=t4BZfNp0QnAYkvft
-    title="Tennis"
-    start="0"
-    aspect-ratio="16x9"
->}}
-</div>
-<div class="player">
 {{< video https://www.youtube.com/embed/uRReeKHIr68?si=65HhFRq14wIaPsN-
     title="Fun!"
     start="0"
@@ -94,6 +87,13 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
     aspect-ratio="16x9"
 >}}
 </div>
+<div class="player">
+{{< video https://www.youtube.com/embed/RYNSlW9THPA?si=3cOq4OngH9AQ0rYW
+    title="FORTIQ Demo Reel"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
 
 :::
 
@@ -111,8 +111,8 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 >}}
 </div>
 <div class="player">
-{{< video https://www.youtube.com/embed/RYNSlW9THPA?si=3cOq4OngH9AQ0rYW
-    title="FORTIQ Demo Reel"
+{{< video https://www.youtube.com/embed/47II_tGXmZU?si=t4BZfNp0QnAYkvft
+    title="Tennis"
     start="0"
     aspect-ratio="16x9"
 >}}
