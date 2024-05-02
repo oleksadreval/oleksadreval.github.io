@@ -4,21 +4,36 @@ title: "Demo reels"
 
 <br/><br/>
 
+## Motion Design 2024
 Made while working on variety of projects for different companies and freelance opportunities. #motiongraphics #production
-<br/>
+<br/><br/>
 <div class="player">
-{{< video https://youtu.be/umEOmTxUK50
+{{< video https://www.youtube.com/embed/E3O5A0dEZ9A?si=yS1Mg7iVva2OrhBz
     title="Motion Graphics Demo Reel"
     start="0"
     aspect-ratio="16x9" 
 >}}
 </div>
 <br/><br/>
+
+## Digital art
 Made while working on variety of projects for game development, freelance opportunities, and art contests. #gamedesign #animation #illustrations
-<br/>
+<br/><br/>
 <div class="player">
 {{< video https://youtu.be/Fd50kusM8Og
     title="Animation Demo Reel"
+    start="0"
+    aspect-ratio="16x9" 
+>}}
+</div>
+<br/><br/>
+
+## Motion Design 2023
+Made while working on variety of projects for different companies and freelance opportunities. #motiongraphics #production
+<br/><br/>
+<div class="player">
+{{< video https://youtu.be/umEOmTxUK50
+    title="Motion Graphics Demo Reel"
     start="0"
     aspect-ratio="16x9" 
 >}}
