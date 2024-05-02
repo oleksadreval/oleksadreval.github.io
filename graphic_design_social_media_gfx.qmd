@@ -50,6 +50,7 @@ for (f in files){
 ![](src/images/gd_social_media/fresherthanfreshlemon.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/fresherthanfreshpineapple.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/gfxfacebook.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/7EyesProcess_gfx.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/headphones_1.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/headphones_2.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/headphones_3.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
@@ -66,9 +67,10 @@ for (f in files){
 ![](src/images/gd_social_media/robinwilliams_5years_1080x1080.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/scateboad.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/socialmedia.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/gd_social_media/7EyesProcess_gfx.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/CrazyData.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/FingerPointing.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/bad-data.gif){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/gd_social_media/basic-historian.gif){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/EnergyConservation.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/EnergyEnergyUnderControl.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/gd_social_media/SCADA.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
