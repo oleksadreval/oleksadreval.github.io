@@ -1,12 +1,10 @@
 ---
 title: "Character Design"
-filters:
-    - lightbox
 lightbox: auto
 ---
 
 <br/>
-Character design and 3D modeling, storytelling, game world maps and game assets. #illustrations #characterdesign #gamedesign
+Character design and in 2D and 3D #characterdesign #game #animation #2D #3D
 
 <br/><br/>
 
@@ -29,28 +27,28 @@ for (f in files){
             "![](",
             this_set,
             f,
-            "){style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n"
+            "){.lightbox style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n"
         )
     )
 }
 ```
 
 
-![](src/images/character_design/atomhawk_artcompetition_2023_oleksandradreval_small.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/atomhawk_artcompetition_2023_wip_oleksandradreval_small.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/BigDog copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/conceptatr_all2d_3d_small.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Girl3D.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/GirlCharacters copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Hippie1.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Hippie2.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Hippie3.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Hippie4.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/IsometricCharacters copy.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Owl.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/RenderColageHippieTexture.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Sacoro.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/character_design/Tresher.jpg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/atomhawk_artcompetition_2023_oleksandradreval_small.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/atomhawk_artcompetition_2023_wip_oleksandradreval_small.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/BigDog copy.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/conceptatr_all2d_3d_small.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Girl3D.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/GirlCharacters copy.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Hippie1.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Hippie2.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Hippie3.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Hippie4.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/IsometricCharacters copy.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Owl.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/RenderColageHippieTexture.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Sacoro.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/character_design/Tresher.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 
 
 

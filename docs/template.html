@@ -36,6 +36,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -180,9 +183,9 @@ gtag('config', 'G-XY7N52R9B3', { 'anonymize_ip': true});
 <p><br><br></p>
 <div class="gallery page-columns page-full">
 <div class="column-page">
-<p><img src="src/images/800x1200.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/900x1100.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/1000x1000.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/700x800.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"></p>
-<p><img src="src/images/800x700.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/1200x1800.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/1100x900.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/1200x800.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/600x900.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"></p>
-<p><img src="src/images/900x600.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/1600x1400.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/1800x1200.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"> <img src="src/images/1400x1600.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;" data-group="my-gallery"></p>
+<p><a href="src/images/800x1200.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/800x1200.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/900x1100.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/900x1100.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/1000x1000.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/1000x1000.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/700x800.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/700x800.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a></p>
+<p><a href="src/images/800x700.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/800x700.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/1200x1800.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/1200x1800.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/1100x900.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/1100x900.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/1200x800.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/1200x800.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/600x900.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/600x900.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a></p>
+<p><a href="src/images/900x600.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/900x600.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/1600x1400.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/1600x1400.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/1800x1200.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/1800x1200.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a> <a href="src/images/1400x1600.jpeg" class="lightbox" data-gallery="my-gallery"><img src="src/images/1400x1600.jpeg" class="img-fluid" style="column-span: none; border-radius: 20px;"></a></p>
 </div>
 </div>
 
@@ -636,6 +639,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","openEffect":"zoom","loop":false,"descPosition":"bottom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

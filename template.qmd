@@ -1,7 +1,5 @@
 ---
 title: "Some plots"
-filters:
-    - lightbox
 lightbox: auto
 ---
 
@@ -14,21 +12,21 @@ It has survived not only five centuries, but also the leap into electronic types
 
 ::: column-page
 
-![](src/images/800x1200.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/900x1100.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/1000x1000.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/700x800.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/800x1200.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/900x1100.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/1000x1000.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/700x800.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 
-![](src/images/800x700.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/1200x1800.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/1100x900.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/1200x800.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/600x900.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/800x700.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/1200x1800.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/1100x900.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/1200x800.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/600x900.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 
-![](src/images/900x600.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/1600x1400.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/1800x1200.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/1400x1600.jpeg){style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/900x600.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/1600x1400.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/1800x1200.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/1400x1600.jpeg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 
 :::
 

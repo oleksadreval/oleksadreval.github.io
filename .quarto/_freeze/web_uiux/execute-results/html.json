@@ -1,8 +1,8 @@
 {
-  "hash": "e4de4905a8ed4ce7b10dccfd641c8dcd",
+  "hash": "34199e1e8d291b12ae98e0007330863b",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Web Design & UI/UX\"\nfilters:\n    - lightbox\nlightbox: auto\n---\n\n\n\n\n#UI #webdesign #branding\n\n<br/><br/>\n\n::: gallery\n\n::: column-page\n\n\n\n\n::: {.cell}\n\n:::\n\n\n\n\n\n![](src/images/web_uiux/25daysofcelebrity_landingpage.jpg){style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/3ag_website.jpg){style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/fortiq_website.jpg){style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/mimikwebsite.jpg){style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n\n\n:::\n\n:::\n",
+    "markdown": "---\ntitle: \"Web Design & UI/UX\"\nlightbox: auto\n---\n\n\n\n\n#UI #webdesign #branding\n\n<br/><br/>\n\n::: gallery\n\n::: column-page\n\n\n\n\n::: {.cell}\n\n:::\n\n\n\n\n\n![](src/images/web_uiux/25daysofcelebrity_landingpage.jpg){.lightbox style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/3ag_website.jpg){.lightbox style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/fortiq_website.jpg){.lightbox style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n![](src/images/web_uiux/mimikwebsite.jpg){.lightbox style=\"column-span: none; border-radius: 20px;\" group=\"my-gallery\"}\n\n\n:::\n\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
