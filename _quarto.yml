@@ -37,8 +37,12 @@ website:
           href: print_branding.qmd
         - text: "Web Design & UI/UX"
           href: web_uiux.qmd
-      - text: "Illustrations & Digital art"
-        href: illustrations_digital.qmd
+      - text: "Art"
+        menu:
+        - text: "Character Design"
+          href: character_design.qmd
+        - text: "Illustrations & Digital"
+          href: illustrations_digital.qmd
 
   page-footer:
     background: "#000000"
