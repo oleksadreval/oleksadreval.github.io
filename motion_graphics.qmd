@@ -11,6 +11,20 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 :::{.column width="49%"}
 
 <div class="player">
+{{< video https://www.youtube.com/embed/UDZyAAxlq_Y?si=4uSN_tgqHErZL6-R
+    title="Forensic Investigation Title"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/6n1blie4V9E?si=YhZ4SdY-zflICv-c
+    title="Star Wars (Unreal Engine 5)"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
 {{< video https://www.youtube.com/embed/VYPvfcJ3l3w?si=30bVxvQD2gRBQ_Vh
     title="Earth day"
     start="0"
@@ -25,15 +39,8 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 >}}
 </div>
 <div class="player">
-{{< video https://www.youtube.com/embed/fuTbnYJJz18?si=ca_uThB_FpFZlrb2
-    title="Music dance"
-    start="0"
-    aspect-ratio="16x9"
->}}
-</div>
-<div class="player">
-{{< video https://www.youtube.com/embed/uRReeKHIr68?si=65HhFRq14wIaPsN-
-    title="Fun!"
+{{< video https://www.youtube.com/embed/ftEu5YJ0bTo?si=vHEQ4_cbcCXsZrYl
+    title="3AG Systems ERP"
     start="0"
     aspect-ratio="16x9"
 >}}
@@ -41,6 +48,13 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 <div class="player">
 {{< video https://www.youtube.com/embed/T5Mcs83e2Wg?si=S3ZIaP86W9-cw6RP
     title="Orca Title"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/uRReeKHIr68?si=65HhFRq14wIaPsN-
+    title="Fun!"
     start="0"
     aspect-ratio="16x9"
 >}}
@@ -60,8 +74,8 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 >}}
 </div>
 <div class="player">
-{{< video https://www.youtube.com/embed/ftEu5YJ0bTo?si=vHEQ4_cbcCXsZrYl
-    title="3AG Systems ERP"
+{{< video https://www.youtube.com/embed/fuTbnYJJz18?si=ca_uThB_FpFZlrb2
+    title="Music dance"
     start="0"
     aspect-ratio="16x9"
 >}}
@@ -103,6 +117,20 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 
 :::{.column width="49%"}
 
+<div class="player">
+{{< video https://www.youtube.com/embed/yEDQ3GXqZOU?si=bp7TPJdl7Mhcp6o6
+    title="Mine Worlds (Unreal Engine 5)"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/j75Nj4ZBzFs?si=LiJ9Wptz5Q_ojOrY
+    title="Fox (Unreal Engine 5)"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
 <div class="player">
 {{< video https://www.youtube.com/embed/fSj7KrC2AaY?si=EM5aPP_jd0t1izm4
     title="FORTIQ 7 eyes"
