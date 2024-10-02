@@ -83,6 +83,12 @@ title: "Motion Graphics"
 >}}
 </div>
 <div class="player">
+{{< video https://www.youtube.com/embed/YGvIpV4gFPI?si=xpNNDjUFhGGUO_tG
+    title="FORTIQ Guide"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+<div class="player">
 {{< video https://www.youtube.com/embed/CVtXbkcC66o?si=Y390E2RW7fNMRgLd
     title="TAKEOFF ad"
     start="0"
