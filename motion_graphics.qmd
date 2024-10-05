@@ -127,6 +127,13 @@ title: "Motion Graphics"
 :::{.column width="49%"}
 
 <div class="player">
+{{< video https://www.youtube.com/embed/QdWt7jsRJeg?si=5RqwjmhmM_NM7jgg
+    title="Miniature Canada"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
 {{< video https://www.youtube.com/embed/yEDQ3GXqZOU?si=bp7TPJdl7Mhcp6o6
     title="Mine Worlds (Unreal Engine 5)"
     start="0"
