@@ -1,11 +1,33 @@
 ---
-title: "Compositing & Breakdowns"
+title: "CG & Breakdowns"
 ---
 
 <br/><br/>
 
 Here are breakdown videos of some small projects I made while working on freelance projects that are not protected by non-disclosure agreements. #motiongraphics #vfx #compositing
 
+
+<div class="player">
+{{< video https://www.youtube.com/embed/4Ve5Yb6xYCM?si=ebSyVdD_RF-caJZR
+    title="UE5 Environment"
+    start="0"
+    aspect-ratio="16x9" 
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/mmz_cNjAe7A?si=EGkPtAvBUfDM9UKM
+    title="UE5 car on the road"
+    start="0"
+    aspect-ratio="16x9" 
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/6n1blie4V9E?si=aoIg6i8lIMPaVO5_
+    title="UE5 star wars"
+    start="0"
+    aspect-ratio="16x9" 
+>}}
+</div>
 <div class="player">
 {{< video https://www.youtube.com/embed/ac7yEJvwQXs?si=I4pHkPLEG9azyplW
     title="Unknown land behind the door Breakdown"

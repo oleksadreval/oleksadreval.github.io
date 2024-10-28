@@ -25,7 +25,7 @@ website:
         menu:
         - text: "Motion Graphics"
           href: motion_graphics.qmd
-        - text: "Compositing & Breakdowns"
+        - text: "CG & Breakdowns"
           href: compositing_breakdowns.qmd
         - text: "Digital Media"
           href: digital_media.qmd
