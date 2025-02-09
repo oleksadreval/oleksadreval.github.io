@@ -14,6 +14,7 @@ website:
   search: false
   navbar:
     background: "#000000"
+    foreground: white
     logo: src/images/ODLogoNoCircle.png
     logo-alt: "Oleksandra Dreval Motion Graphics Designer Vancouver"
     title: false
@@ -21,7 +22,7 @@ website:
     right:
       - text: "About"
         href: about.qmd
-      - text: "Demo Reels"
+      - text: "Home"
         href: index.qmd
       - text: "Motion Graphics & VFX"
         menu:
