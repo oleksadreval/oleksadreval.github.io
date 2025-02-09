@@ -51,7 +51,7 @@ website:
       - icon: home
         href: https://oleksadreval.com
       - icon: linkedin
-        href: https://www.linkedin.com/in/oleksandra-dreval-ba740a149/
+        href: https://www.linkedin.com/in/oleksadreval
 
 format:
   html:
@@ -61,5 +61,7 @@ format:
     grid:
       margin-width: 100px
 
-
+meta:
+  - name: "keywords"
+    content: "motion graphics, Vancouver, graphic design, graphic designer, 3D animation, visual effects, CGI, VFX, after effects, branding, digital art"
 
