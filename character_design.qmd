@@ -1,5 +1,9 @@
 ---
 title: "Character Design"
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: styles.css
 lightbox: auto
 ---
 

@@ -1,5 +1,9 @@
 ---
 title: "CG & Breakdowns"
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: styles.css
 ---
 
 <br/><br/>

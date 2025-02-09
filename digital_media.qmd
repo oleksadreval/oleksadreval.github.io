@@ -1,5 +1,9 @@
 ---
 title: "Digital media"
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: styles.css
 ---
 
 All motion graphics was done in Adobe Creative Suite and Cinema 4D.
