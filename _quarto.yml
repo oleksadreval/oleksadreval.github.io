@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   google-analytics: "G-XY7N52R9B3"
@@ -64,4 +66,3 @@ format:
 meta:
   - name: "keywords"
     content: "motion graphics, Vancouver, graphic design, graphic designer, 3D animation, visual effects, CGI, VFX, after effects, branding, digital art"
-
