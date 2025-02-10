@@ -219,11 +219,13 @@ h1, h2, p {
 }
 
 .pin-wrap-sticky img {
-    height: 80vh;
-    width: auto;
+    height: 100%;
+    width: 100%;
     object-fit: cover;
     padding: 0 1vw;
     vertical-align: middle;
+    max-height: 100%;
+    max-width: 100%;
   }
 
 .pin-wrap {

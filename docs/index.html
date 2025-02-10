@@ -168,6 +168,8 @@ gtag('config', 'G-XY7N52R9B3', { 'anonymize_ip': true});
 <p><video width="100%" height="100%" autoplay="" muted="" loop=""> <source src="src/videos/titles/DemoReel_index.mp4" type="video/mp4"> Your browser does not support the video tag. </video></p>
 </section>
 <br><br><br>
+<br><br><br>
+<br><br><br>
 
 <section id="sectionPin">
     <div class="pin-wrap-sticky">
@@ -203,7 +205,7 @@ const $pinWrapSticky = document.querySelector('.pin-wrap-sticky');
 const $pinWrap = document.querySelector('.pin-wrap');
 
 /* Stretch it out, so that we create room for the horizontal scroll animation */
-$sectionPin.style.height = '400vh';
+$sectionPin.style.height = '300vh';
 $sectionPin.style.overflow = 'visible'; // To make position sticky work …
 
 /* Stick to Top */
@@ -214,25 +216,65 @@ $pinWrapSticky.style.top = '0';
 $pinWrapSticky.style.overflowX = 'hidden';
 
 /* Stretch out pinwrap */
-$pinWrap.style.height = '100vh';
-$pinWrap.style.width = '250vmax';
+$pinWrap.style.height = '80vh';
+$pinWrap.style.width = '200vw';
 
 // Scroll-Linked Animation
-$pinWrap.animate(
+if ('ViewTimeline' in window) {
+  // Use ViewTimeline if supported
+  $pinWrap.animate(
     {
-        transform: [ ``, `translateX(calc(-100% + 100vw))`],
+      transform: [``, `translateX(calc(-100% + 100vw))`],
     },
     {
-        timeline: new ViewTimeline({
-            subject: $sectionPin,
-            axis: 'block',
-        }),
-        fill: 'forwards',
-        rangeStart: `contain 0%`,
-        rangeEnd: `contain 100%`,
+      timeline: new ViewTimeline({
+        subject: $sectionPin,
+        axis: 'block',
+      }),
+      fill: 'forwards',
+      rangeStart: `contain 0%`,
+      rangeEnd: `contain 100%`,
     }
-);
+  );
+} else {
+  let isScrolling = false;
+  const stickyPanelTop = $pinWrapSticky.offsetTop; // Get the top position of the sticky panel
+  const stickyPanelHeight = $pinWrapSticky.offsetHeight; // Get the height of the sticky panel
+  const sectionHeight = $sectionPin.offsetHeight; // Get the height of the entire section
+  const sectionTop = $sectionPin.offsetTop; // Get the top position of the section
 
+  // Set width of the sticky panel explicitly
+  $pinWrap.style.width = '200vw';  // You can adjust this width to match your layout
+
+  window.addEventListener('scroll', () => {
+    const scrollY = window.scrollY;
+
+    // 1. Update the transform value as the user scrolls
+    if (scrollY >= stickyPanelTop && scrollY < stickyPanelTop + stickyPanelHeight) {
+      // Calculate scroll percentage
+      const scrollPercentage = (scrollY - stickyPanelTop) / (sectionHeight - stickyPanelHeight);
+      const transformValue = `translateX(${(-100 * scrollPercentage)}vw)`;
+      $pinWrap.style.transform = transformValue;
+
+      // Apply transition for smooth movement while scrolling
+      $pinWrap.style.transition = 'transform 0.1s ease-out'; // Smooth during scroll
+    }
+
+    // 2. Stop animation at the end of sticky panel
+    else if (scrollY >= stickyPanelTop + stickyPanelHeight) {
+      // Ensure it stays at the final position
+      $pinWrap.style.transform = `translateX(-100vw)`;
+      $pinWrap.style.transition = 'transform 0.3s ease-out'; // Apply smooth transition at the end
+    } 
+
+    // 3. Reset transform when scrolling above the sticky panel
+    else {
+      // Reset to starting position when not in the scroll range
+      $pinWrap.style.transform = 'translateX(0)';
+      $pinWrap.style.transition = 'none'; // No transition when not in scroll range
+    }
+  });
+}
 </script>
 
 
