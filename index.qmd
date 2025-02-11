@@ -25,11 +25,12 @@ lightbox: auto
 <section id="sectionPin">
     <div class="pin-wrap-sticky">
       <div class="pin-wrap">
-        <h2>
-            Content!<br/>
-            Super cool and nice text.<br/>
-            See you again!
-        </h2>
+        <h3>
+            <br/>
+            The Things<p>
+            I Do<p>
+            <span class="highlight">Well</span>
+        </h3>
         <a href="/compositing_breakdowns.html">
             <img src="src/images/sections/CG&VFX.jpg" alt="">
         </a>
@@ -46,6 +47,14 @@ lightbox: auto
     </div>
     </section>
 <br><br>
+
+<h5>
+    <span class="highlight">Highlights</span>
+    <br>
+    <br>
+    <br>
+    <br>
+</h5>
 ```
 
 ::: gallery
