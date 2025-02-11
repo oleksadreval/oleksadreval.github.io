@@ -94,7 +94,7 @@ $sectionPin.style.height = '250vh';
 $sectionPin.style.overflow = 'visible'; // To make position sticky work …
 
 /* Stick to Top */
-$pinWrapSticky.style.height = '100vh';
+$pinWrapSticky.style.height = '80vh';
 $pinWrapSticky.style.width = '100vw';
 $pinWrapSticky.style.position = 'sticky';
 $pinWrapSticky.style.top = '0';
