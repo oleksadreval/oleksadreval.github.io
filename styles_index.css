@@ -9,11 +9,11 @@ h1 {
 }
 
 h3 {
-    height: 4em;
+    height: 2rem;
     background-color: transparent;
     text-align: left;
-    font-size: 3em;
-    padding: 120px;
+    font-size: 3rem;
+    padding: 1.2rem;
     color: white;
     font-weight: bolder;
 }
@@ -32,12 +32,13 @@ h4 {
 }
 
 h5 {
-    height: 4em;
+    height: 2em;
     background-color: transparent;
     text-align: left;
     font-size: 3em;
-    margin: 100px;
-    padding: 120px;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+    padding: 60px;
     color: #0068f9;
     font-weight: bolder;
 }
@@ -255,5 +256,5 @@ h1, h2, p {
 
 .pin-wrap {
     display: flex;
-    padding: 2vw;
+    padding: 1vw;
   }
