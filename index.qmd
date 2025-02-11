@@ -90,7 +90,7 @@ const $pinWrapSticky = document.querySelector('.pin-wrap-sticky');
 const $pinWrap = document.querySelector('.pin-wrap');
 
 /* Stretch it out, so that we create room for the horizontal scroll animation */
-$sectionPin.style.height = '300vh';
+$sectionPin.style.height = '275vh';
 $sectionPin.style.overflow = 'visible'; // To make position sticky work …
 
 /* Stick to Top */
