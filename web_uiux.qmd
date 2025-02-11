@@ -1,5 +1,9 @@
 ---
 title: "Web Design & UI/UX"
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: styles.css
 lightbox: auto
 ---
 

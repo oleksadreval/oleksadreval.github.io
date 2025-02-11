@@ -1,40 +1,172 @@
 ---
-title: "Demo reels"
+format:
+  html:
+    theme: lux
+    css: styles_index.css
+lightbox: auto
 ---
 
-<br/><br/>
+::::{.column-screen}
 
-## Motion Design 2024
-Made while working on variety of projects for different companies and freelance opportunities. #motiongraphics #production
-<br/><br/>
-<div class="player">
-{{< video https://www.youtube.com/embed/E3O5A0dEZ9A?si=yS1Mg7iVva2OrhBz
-    title="Motion Graphics Demo Reel"
-    start="0"
-    aspect-ratio="16x9" 
->}}
-</div>
-<br/><br/>
+<div class="section section-1">
 
-## Digital art
-Made while working on variety of projects for game development, freelance opportunities, and art contests. #gamedesign #animation #illustrations
-<br/><br/>
-<div class="player">
-{{< video https://youtu.be/Fd50kusM8Og
-    title="Animation Demo Reel"
-    start="0"
-    aspect-ratio="16x9" 
->}}
-</div>
-<br/><br/>
+  <video width="100%" height="100%" autoplay muted loop>
+    <source src="src/videos/titles/DemoReel_index.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
-## Motion Design 2023
-Made while working on variety of projects for different companies and freelance opportunities. #motiongraphics #production
-<br/><br/>
-<div class="player">
-{{< video https://youtu.be/umEOmTxUK50
-    title="Motion Graphics Demo Reel"
-    start="0"
-    aspect-ratio="16x9" 
->}}
 </div>
+
+```{=html}
+<br><br><br>
+<br><br><br>
+<br><br><br>
+
+<section id="sectionPin">
+    <div class="pin-wrap-sticky">
+      <div class="pin-wrap">
+        <h3>
+            <br/>
+            The Things<p>
+            I Do<p>
+            <span class="highlight">Well</span>
+        </h3>
+        <a href="/compositing_breakdowns.html">
+            <img src="src/images/sections/CG&VFX.jpg" alt="">
+        </a>
+        <a href="/motion_graphics.html">
+            <img src="src/images/sections/MotionGraphics.jpg" alt="">
+        </a>
+        <a href="/graphic_design_social_media_gfx.html">
+            <img src="src/images/sections/GraphicDesign.jpg" alt="">
+        </a>
+        <a href="/illustrations_digital.html">
+            <img src="src/images/sections/DigitalArt.jpg" alt="">
+        </a>
+      </div>
+    </div>
+    </section>
+<br><br>
+
+<h5>
+    <span class="highlight">Highlights</span>
+    <br>
+    <br>
+    <br>
+    <br>
+</h5>
+```
+
+::: gallery
+
+![](src/images/highlights/2-6.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/3-1.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/BackPlate.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/BASIL_MOKUP.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/btb_socialtest_theincident_suns109.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/FingerPointing.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Girl20s.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Headphones_4.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/JapaneseUrbanLegends_Breakdown_Cloth.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Logo_WavybrainStudios_T-Shirt_Pink.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MakeEverydDayEarthDay_Earth1080x1080%20copy.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MakeEverydDayEarthDay_Ocean1080x1080%20copy.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MassiveLandscapeRiver%203.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MiniatureCanada1.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MiniatureCanada2.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MonitoringRealTime.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/OceanShore.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/OceanStairs.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/OLeksandraDreval_IGG_Art_Test_Building7_3Levels.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/RoadCar_Back2.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/RoadCar_Side2.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/ShipSequence.0237.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/StrategicApproach.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Tennis_OD_Girls.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Tennis_OD.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Thumbnail.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/WashroomHalf.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/WavyBrainStudiosLogo3_Color_Logo_On_Black.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/WeadCamera1.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/WinterOrcaTitle.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+:::
+
+::::
+
+<script>
+const $sectionPin = document.querySelector('#sectionPin');
+const $pinWrapSticky = document.querySelector('.pin-wrap-sticky');
+const $pinWrap = document.querySelector('.pin-wrap');
+
+/* Stretch it out, so that we create room for the horizontal scroll animation */
+$sectionPin.style.height = '250vh';
+$sectionPin.style.overflow = 'visible'; // To make position sticky work …
+
+/* Stick to Top */
+$pinWrapSticky.style.height = '80vh';
+$pinWrapSticky.style.width = '100vw';
+$pinWrapSticky.style.position = 'sticky';
+$pinWrapSticky.style.top = '0';
+$pinWrapSticky.style.overflowX = 'hidden';
+
+/* Stretch out pinwrap */
+$pinWrap.style.height = '80vh';
+$pinWrap.style.width = '200vw';
+
+// Scroll-Linked Animation
+if ('ViewTimeline' in window) {
+  // Use ViewTimeline if supported
+  $pinWrap.animate(
+    {
+      transform: [``, `translateX(calc(-100% + 100vw))`],
+    },
+    {
+      timeline: new ViewTimeline({
+        subject: $sectionPin,
+        axis: 'block',
+      }),
+      fill: 'forwards',
+      rangeStart: `contain 0%`,
+      rangeEnd: `contain 100%`,
+    }
+  );
+} else {
+  let isScrolling = false;
+  const stickyPanelTop = $pinWrapSticky.offsetTop; // Get the top position of the sticky panel
+  const stickyPanelHeight = $pinWrapSticky.offsetHeight; // Get the height of the sticky panel
+  const sectionHeight = $sectionPin.offsetHeight; // Get the height of the entire section
+  const sectionTop = $sectionPin.offsetTop; // Get the top position of the section
+
+  // Set width of the sticky panel explicitly
+  $pinWrap.style.width = '200vw';  // You can adjust this width to match your layout
+
+  window.addEventListener('scroll', () => {
+    const scrollY = window.scrollY;
+
+    // 1. Update the transform value as the user scrolls
+    if (scrollY >= stickyPanelTop && scrollY < stickyPanelTop + stickyPanelHeight) {
+      // Calculate scroll percentage
+      const scrollPercentage = (scrollY - stickyPanelTop) / (sectionHeight - stickyPanelHeight);
+      const transformValue = `translateX(${(-100 * scrollPercentage)}vw)`;
+      $pinWrap.style.transform = transformValue;
+
+      // Apply transition for smooth movement while scrolling
+      $pinWrap.style.transition = 'transform 0.1s ease-out'; // Smooth during scroll
+    }
+
+    // 2. Stop animation at the end of sticky panel
+    else if (scrollY >= stickyPanelTop + stickyPanelHeight) {
+      // Ensure it stays at the final position
+      $pinWrap.style.transform = `translateX(-100vw)`;
+      $pinWrap.style.transition = 'transform 0.3s ease-out'; // Apply smooth transition at the end
+    } 
+
+    // 3. Reset transform when scrolling above the sticky panel
+    else {
+      // Reset to starting position when not in the scroll range
+      $pinWrap.style.transform = 'translateX(0)';
+      $pinWrap.style.transition = 'none'; // No transition when not in scroll range
+    }
+  });
+}
+</script>

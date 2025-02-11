@@ -1,6 +1,10 @@
 ---
 title: "Oleksandra Dreval"
 from: markdown+emoji
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: styles.css
 about:
   template: jolla
   image: src/images/od.jpg

@@ -7,21 +7,22 @@ project:
 website:
   google-analytics: "G-XY7N52R9B3"
   title: "Oleksandra Dreval: Motion Graphics Design and animation"
-  image: src/images/ODLogoNoCircle.png
-  favicon: src/images/ODLogoNoCircle.png
+  image:  src/images/MyLogoColour_YouTube.jpg
+  favicon:  src/images/MyLogoColour_YouTube.jpg
   back-to-top-navigation: true
   page-navigation: true
   search: false
   navbar:
     background: "#000000"
-    logo: src/images/ODLogoNoCircle.png
-    logo-alt: "Oleksandra Dreval"
+    foreground: white
+    logo: src/images/MyLogoColour_YouTube.jpg
+    logo-alt: "Oleksandra Dreval Motion Graphics Designer Vancouver"
     title: false
     collapse-below: lg
     right:
       - text: "About"
         href: about.qmd
-      - text: "Demo Reels"
+      - text: "Home"
         href: index.qmd
       - text: "Motion Graphics & VFX"
         menu:
@@ -48,7 +49,7 @@ website:
 
   page-footer:
     background: "#000000"
-    left: "Copyright 2024, Oleksandra Dreval"
+    left: "Copyright 2025, Oleksandra Dreval"
     right:
       - icon: home
         href: https://oleksadreval.com
@@ -57,8 +58,6 @@ website:
 
 format:
   html:
-    theme: [lux, theme.scss]
-    css: styles.css
     toc: false
     grid:
       margin-width: 100px

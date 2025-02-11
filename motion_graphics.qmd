@@ -1,5 +1,9 @@
 ---
 title: "Motion Graphics"
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: styles.css
 ---
 
 <br>

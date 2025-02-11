@@ -1,5 +1,9 @@
 ---
 title: "Graphic design & Social Media GFX"
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: styles.css
 lightbox: auto
 ---
 
