@@ -50,6 +50,10 @@ lightbox: auto
 
 <h5>
     <span class="highlight">Highlights</span>
+    <br>
+    <br>
+    <br>
+    <br>
 </h5>
 ```
 
@@ -95,19 +99,19 @@ const $pinWrapSticky = document.querySelector('.pin-wrap-sticky');
 const $pinWrap = document.querySelector('.pin-wrap');
 
 /* Stretch it out, so that we create room for the horizontal scroll animation */
-$sectionPin.style.height = '10%';
+$sectionPin.style.height = '250vh';
 $sectionPin.style.overflow = 'visible'; // To make position sticky work …
 
 /* Stick to Top */
-$pinWrapSticky.style.height = '100%';
-$pinWrapSticky.style.width = '100%';
+$pinWrapSticky.style.height = '80vh';
+$pinWrapSticky.style.width = '100vw';
 $pinWrapSticky.style.position = 'sticky';
 $pinWrapSticky.style.top = '0';
 $pinWrapSticky.style.overflowX = 'hidden';
 
 /* Stretch out pinwrap */
-$pinWrap.style.height = '100%';
-$pinWrap.style.width = '200%';
+$pinWrap.style.height = '80vh';
+$pinWrap.style.width = '200vw';
 
 // Scroll-Linked Animation
 if ('ViewTimeline' in window) {
@@ -134,7 +138,7 @@ if ('ViewTimeline' in window) {
   const sectionTop = $sectionPin.offsetTop; // Get the top position of the section
 
   // Set width of the sticky panel explicitly
-  $pinWrap.style.width = '250%';  // You can adjust this width to match your layout
+  $pinWrap.style.width = '200vw';  // You can adjust this width to match your layout
 
   window.addEventListener('scroll', () => {
     const scrollY = window.scrollY;
@@ -143,18 +147,18 @@ if ('ViewTimeline' in window) {
     if (scrollY >= stickyPanelTop && scrollY < stickyPanelTop + stickyPanelHeight) {
       // Calculate scroll percentage
       const scrollPercentage = (scrollY - stickyPanelTop) / (sectionHeight - stickyPanelHeight);
-      const transformValue = `translateX(${(-200 * scrollPercentage)}vw)`;
+      const transformValue = `translateX(${(-100 * scrollPercentage)}vw)`;
       $pinWrap.style.transform = transformValue;
 
       // Apply transition for smooth movement while scrolling
-      $pinWrap.style.transition = 'transform 0.5s ease-out'; // Smooth during scroll
+      $pinWrap.style.transition = 'transform 0.1s ease-out'; // Smooth during scroll
     }
 
     // 2. Stop animation at the end of sticky panel
     else if (scrollY >= stickyPanelTop + stickyPanelHeight) {
       // Ensure it stays at the final position
-      $pinWrap.style.transform = `translateX(-35%)`;
-      $pinWrap.style.transition = 'transform 1s ease-out'; // Apply smooth transition at the end
+      $pinWrap.style.transform = `translateX(-100vw)`;
+      $pinWrap.style.transition = 'transform 0.3s ease-out'; // Apply smooth transition at the end
     } 
 
     // 3. Reset transform when scrolling above the sticky panel
