@@ -49,13 +49,12 @@ lightbox: auto
 <br><br>
 
 <h5>
-    <span class="highlight">Highlights</span>
-    <br>
-    <br>
-    <br>
-    <br>
+    <span class="highlight">High</span><p>
+    <span class="highlight-green">lights</span>
 </h5>
 ```
+<br><br>
+<br><br>
 
 ::: gallery
 
