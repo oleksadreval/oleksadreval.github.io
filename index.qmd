@@ -161,3 +161,47 @@ if ('ViewTimeline' in window) {
   });
 }
 </script>
+
+
+<script>
+// Create cursor elements
+const cursor = document.createElement("div");
+cursor.classList.add("laser-pointer");
+document.body.appendChild(cursor);
+
+const trail = document.createElement("div");
+trail.classList.add("cursor-trail");
+document.body.appendChild(trail);
+
+// Track mouse movement
+let timeout;
+document.addEventListener("mousemove", (e) => {
+    // Move small cursor instantly
+    cursor.style.left = `${e.clientX}px`;
+    cursor.style.top = `${e.clientY}px`;
+
+    // Move trailing circle with delay
+    setTimeout(() => {
+        trail.style.left = `${e.clientX + 20}px`;
+        trail.style.top = `${e.clientY + 20}px`;
+        trail.style.opacity = 1;
+    }, 100);
+
+    // Hide trail after 1s of no movement
+    clearTimeout(timeout);
+    timeout = setTimeout(() => {
+        trail.style.opacity = 0;
+    }, 1000);
+});
+
+// Add hover effect for interactive elements
+document.querySelectorAll("a, button, img").forEach((element) => {
+    element.addEventListener("mouseenter", () => {
+        cursor.classList.add("hover-effect"); // Expand cursor
+    });
+    element.addEventListener("mouseleave", () => {
+        cursor.classList.remove("hover-effect"); // Revert cursor
+    });
+});
+
+</script>
