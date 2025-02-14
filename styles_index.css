@@ -270,6 +270,16 @@ a, button, img {
     background-color: rgb(228, 119, 252);
 }
 
+.dropdown-menu {
+    background-color: black !important; /* Sets background to black */
+    border: none !important; /* Removes the border */
+}
+
+.dropdown-menu a:hover,
+.dropdown-menu a:focus {
+    background-color: black !important; /* Dark gray background on hover */
+}
+
 .content {
     margin-top:  0 !important;
     padding-top:  0 !important;
