@@ -223,6 +223,53 @@ iframe {
 
 .navbar-default { margin-bottom: 0 !important; }
 
+.navbar a {
+    color: #0068f9 !important;
+  }
+
+.navbar a:hover {
+    color: #04ff3a !important;
+}
+
+body {
+    cursor: none;
+}
+
+.laser-pointer {
+    position: fixed;
+    width: 12px;
+    height: 12px;
+    background-color: #e477fc;
+    border: 0px;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s ease-out;
+    z-index: 9999;
+}
+
+.cursor-trail {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(228, 119, 252, 0.2);
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.5s ease-out, opacity 1s ease-out;
+    z-index: 9998;
+    opacity: 0;
+}
+
+a, button, img {
+    cursor: none;
+}
+
+.hover-effect {
+    transform: translate(-50%, -50%) scale(1.75);
+    background-color: rgb(228, 119, 252);
+}
+
 .content {
     margin-top:  0 !important;
     padding-top:  0 !important;
