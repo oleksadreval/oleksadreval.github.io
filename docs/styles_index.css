@@ -173,6 +173,7 @@ div {
     background-color: black;
     padding: 0;
     margin: 0;
+    margin-bottom: 20vh;
     width: 100%;
 }
 
@@ -325,6 +326,7 @@ h1, h2, p {
     .pin-wrap {
       height: 60vh;
       width: 250vw; /* Reduce width to fit better on mobile */
+      margin-top: 30vh !important;
     }
 
     h3 {
@@ -347,9 +349,71 @@ h1, h2, p {
         min-height: 50%; /* Prevents shrinking below 25% of its original size */
         min-width: 75%;
     }
+
+    .logo-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .text-section {
+        max-width: 90%;
+        text-align: center;
+        margin-top: 20px;
+    }
   }
 
 .pin-wrap {
     display: flex;
     padding: 2vw;
+    margin-top: 5vh;
   }
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-left: 3rem !important;
+    margin-right: 3rem !important;
+    padding: 1rem;
+}
+.logo-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+.logo-grid img {
+    width: 100%;
+    height: auto;
+    max-height: 15vh;
+    object-fit: contain;
+
+    max-width: 15vw;
+}
+.text-section {
+    width: 20%;
+    text-align: left;
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+/* Preloader Fullscreen */
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+}
+
+/* Fade-out animation */
+.preloader-fade {
+    opacity: 0;
+    transition: opacity 0.8s ease-out;
+    pointer-events: none;
+}
