@@ -111,7 +111,6 @@ lightbox: auto
 ![](src/images/highlights/MiniatureCanada1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/MiniatureCanada2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/JapaneseUrbanLegends_Breakdown_Cloth.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/MonitoringRealTime_v2.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/OceanShore.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/OceanStairs.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/OLeksandraDreval_IGG_Art_Test_Building7_3Levels.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
