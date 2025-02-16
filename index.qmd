@@ -33,16 +33,16 @@ lightbox: auto
             <span class="highlight">Well</span>
         </h3>
         <a href="/compositing_breakdowns.html">
-            <img src="src/images/sections/CG&VFX.jpg" alt="">
+            <img src="src/images/sections/CG&VFX.webp" alt="">
         </a>
         <a href="/motion_graphics.html">
-            <img src="src/images/sections/MotionGraphics.jpg" alt="">
+            <img src="src/images/sections/MotionGraphics.webp" alt="">
         </a>
         <a href="/graphic_design_social_media_gfx.html">
-            <img src="src/images/sections/GraphicDesign.jpg" alt="">
+            <img src="src/images/sections/GraphicDesign.webp" alt="">
         </a>
         <a href="/illustrations_digital.html">
-            <img src="src/images/sections/DigitalArt.jpg" alt="">
+            <img src="src/images/sections/DigitalArt.webp" alt="">
         </a>
       </div>
     </div>
@@ -96,35 +96,35 @@ lightbox: auto
 
 ::: gallery
 
+![](src/images/highlights/MakeEverydDayEarthDay_Ocean1080x1080.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MakeEverydDayEarthDay_Earth1080x1080.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/2-6.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/3-1.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/BackPlate.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/BASIL_MOKUP.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/btb_socialtest_theincident_suns109.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/BackPlate.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/BASIL_MOKUP.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/btb_socialtest_theincident_suns109.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/FingerPointing.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/Girl20s.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/Headphones_4.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Headphones_4.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Logo_WavybrainStudios_T-Shirt_Pink.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MassiveLandscapeRiver%203.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MiniatureCanada1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MiniatureCanada2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/JapaneseUrbanLegends_Breakdown_Cloth.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/Logo_WavybrainStudios_T-Shirt_Pink.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/MakeEverydDayEarthDay_Earth1080x1080%20copy.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/MakeEverydDayEarthDay_Ocean1080x1080%20copy.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/MassiveLandscapeRiver%203.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/MiniatureCanada1.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/MiniatureCanada2.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/MonitoringRealTime.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/OceanShore.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/OceanStairs.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/OLeksandraDreval_IGG_Art_Test_Building7_3Levels.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/RoadCar_Back2.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/RoadCar_Side2.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/ShipSequence.0237.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/StrategicApproach.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/Tennis_OD_Girls.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/Tennis_OD.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/Thumbnail.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/MonitoringRealTime_v2.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/OceanShore.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/OceanStairs.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/OLeksandraDreval_IGG_Art_Test_Building7_3Levels.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/RoadCar_Back2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/RoadCar_Side2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/ShipSequence.0237.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/StrategicApproach_v2.gif){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Tennis_OD_Girls.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Tennis_OD.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Thumbnail.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/WashroomHalf.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/WavyBrainStudiosLogo3_Color_Logo_On_Black.png){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/WeadCamera1.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/WavyBrainStudiosLogo3_Color_Logo_On_Black.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/WeadCamera1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/WinterOrcaTitle.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 :::
 
