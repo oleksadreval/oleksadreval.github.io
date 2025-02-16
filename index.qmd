@@ -6,6 +6,12 @@ format:
 lightbox: auto
 ---
 
+```{=html}
+<div id="preloader">
+    <img src="src/images/ODLoading_2.gif" alt="Loading...">
+</div>
+```
+
 ::::{.column-screen}
 
 <div class="section section-1">
@@ -18,10 +24,6 @@ lightbox: auto
 </div>
 
 ```{=html}
-<br><br><br>
-<br><br><br>
-<br><br><br>
-
 <section id="sectionPin">
     <div class="pin-wrap-sticky">
       <div class="pin-wrap">
@@ -45,9 +47,45 @@ lightbox: auto
       </div>
     </div>
     </section>
-
 <br><br>
 
+```
+<br><br>
+<br><br>
+<br><br>
+
+
+```{=html}
+<h5>
+  <span class="highlight">Worked</span>
+  <span class="highlight-green">with</span>
+</h5>
+<div class="logo-container">
+    <div class="logo-grid">
+        <img src="src/images/logos/3AG.png" alt="3AG">
+        <img src="src/images/logos/Bonsai.png" alt="bonsai">
+        <img src="src/images/logos/Fortiq.png" alt="fortiq">
+        <img src="src/images/logos/GW.png" alt="greenworks">
+        <img src="src/images/logos/LRMS.png" alt="lrms">
+        <img src="src/images/logos/LumaVista.png" alt="lvc">
+        <img src="src/images/logos/Mimik.png" alt="mimik">
+        <img src="src/images/logos/Nihkhah.png" alt="nihkhah">
+        <img src="src/images/logos/Reelz.png" alt="reelz">
+        <img src="src/images/logos/SFU.png" alt="sfu">
+        <img src="src/images/logos/SpringStoneMS.png" alt="springstone">
+        <img src="src/images/logos/Tide.png" alt="tide">
+        <img src="src/images/logos/UNM.png" alt="unm">
+        <img src="src/images/logos/UPG.png" alt="upg">
+        <img src="src/images/logos/WavyBrain.png" alt="wavybrain">
+    </div>
+</div>
+```
+<br><br>
+<br><br>
+<br><br>
+
+
+```{=html}
 <h5>
     <span class="highlight">High</span><p>
     <span class="highlight-green">lights</span>
@@ -91,6 +129,16 @@ lightbox: auto
 :::
 
 ::::
+
+<script>
+window.addEventListener("load", () => {
+    const preloader = document.getElementById("preloader");
+    preloader.classList.add("preloader-fade");
+    setTimeout(() => {
+        preloader.style.display = "none";
+    }, 800);
+});
+</script>
 
 <script>
 const $sectionPin = document.querySelector('#sectionPin');
