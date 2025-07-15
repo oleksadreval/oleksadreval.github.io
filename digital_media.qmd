@@ -6,14 +6,20 @@ format:
     css: styles.css
 ---
 
-All motion graphics was done in Adobe Creative Suite and Cinema 4D.
-Promo videos for REELZ Channel made in collaboration  with team of video editors. Motion Graphics, assets, animation, special effects, and keying are done by me.
+All motion graphics was done in Adobe Creative Suite and Cinema 4D, with video editing and post-processing in Adobe After Effects, Adobe Premier Pro, and DaVinci Resolve.
+
 #motiongraphicsdesign #socialmedia #graphicdesign #branddesign
 
 ::::{.columns}
 
 :::{.column width="49%"}
 
+<div class="player">
+![](src/videos/digital_media/NHL_Video1_Captions.mp4)
+</div>
+<div class="player">
+![](src/videos/digital_media/NHL_Video2_Captions.mp4)
+</div>
 <div class="player">
 ![](src/videos/digital_media/bcd_ghostbusters_socialvideo_1080x1080.mp4)
 </div>
@@ -27,16 +33,10 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 ![](src/videos/digital_media/mmf_newnight_mondays_1024x512.mp4)
 </div>
 <div class="player">
-![](src/videos/digital_media/murderbythenumbers_pabloescobar_sound.mp4)
-</div>
-<div class="player">
 ![](src/videos/digital_media/sharkterror_insta_1080x1080.mp4)
 </div>
 <div class="player">
 ![](src/videos/digital_media/ThanksgivingGFX_1080x1080.mp4)
-</div>
-<div class="player">
-![](src/videos/digital_media/aut_social.mp4)
 </div>
 
 :::
@@ -47,6 +47,9 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
 
 :::{.column width="49%"}
 
+<div class="player">
+![](src/videos/digital_media/murderbythenumbers_pabloescobar_sound.mp4)
+</div>
 <div class="player">
 ![](src/videos/digital_media/Girl_PublicLibrary.mp4)
 </div>
@@ -59,6 +62,9 @@ Promo videos for REELZ Channel made in collaboration  with team of video editors
     start="0"
     aspect-ratio="16x9"
 >}}
+</div>
+<div class="player">
+![](src/videos/digital_media/aut_social.mp4)
 </div>
 <div class="player">
 {{< video https://www.youtube.com/embed/hRS4FY_Qc9I?si=VCRfRK_7wWVEAyfJ
