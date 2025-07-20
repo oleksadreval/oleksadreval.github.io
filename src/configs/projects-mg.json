@@ -1,0 +1,44 @@
+[
+    {
+      "title": "The Sinister Secret of Shady Grove",
+      "link": "index.html",
+      "image": "src/images/projects-mg/Wes_Prologue_WebPage_StillFrame.webp",
+      "hover_image": "src/images/projects-mg/Wes_Prologue_WebPage_anim.webp",
+      "description": "Prologue animatic"
+    },
+    {
+      "title": "Urban Legends",
+      "link": "index.html",
+      "image": "src/images/projects-mg/UrbanLegends_SF.webp",
+      "hover_image": "src/images/projects-mg/UrbanLegends_anim.webp",
+      "description": "Title sequence"
+    },
+    {
+      "title": "Mysterious Forest",
+      "link": "index.html",
+      "image": "src/images/projects-mg/MysteriousForest_WebProject_SF.webp",
+      "hover_image": "src/images/projects-mg/MysteriousForest_OD_WebProject.webp",
+      "description": "UI Motion Graphics"
+    },
+    {
+        "title": "REELZ TV",
+        "link": "index.html",
+        "image": "src/images/projects-mg/Reelz_SF.webp",
+        "hover_image": "src/images/projects-mg/Reelz_WebPage_anim.webp",
+        "description": "On-air Motion Graphics"
+    },
+    {
+      "title": "Forensic Files",
+      "link": "index.html",
+      "image": "src/images/projects-mg/Forensic_WebProject_SF.webp",
+      "hover_image": "src/images/projects-mg/Forensic_OD_WebProject.webp",
+      "description": "Title sequence"
+    },
+    {
+      "title": "3AG Systems",
+      "link": "index.html",
+      "image": "src/images/projects-mg/3AG_OD_WebProject_Frame.webp",
+      "hover_image": "src/images/projects-mg/3AG_OD_WebProject_anim.webp",
+      "description": "SaaS promos"
+    }
+]

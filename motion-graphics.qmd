@@ -1,0 +1,145 @@
+---
+pagetitle: "Motion Graphics Projects"
+format:
+  html:
+    theme: [lux, theme.scss]
+    css: src/css/mg.css
+lightbox: auto
+---
+
+::::{.column-screen}
+
+:::{.hero-container}
+
+<div class="hero-text">
+  <span id="motion">Motion</span><br>
+  <span id="graphics">Graphics</span>
+</div>
+
+:::
+
+```{r}
+#| echo: false
+library(jsonlite)
+library(glue)
+library(htmltools)
+
+# Load project data from JSON
+projects <- fromJSON("src/configs/projects-mg.json")
+
+# Function to generate HTML
+generate_image_cards <- function(projects) {
+  html <- '<div class="flex-image-grid fade-in-on-scroll">\n'
+  
+  for (i in seq_len(nrow(projects))) {
+    html <- paste0(html, glue(
+      '
+        <div class="image-card">
+          <div class="image-wrapper">
+            <a href="{projects$link[i]}">
+              <img src="{projects$image[i]}" alt="{projects$title[i]}" />
+              <img src="{projects$hover_image[i]}" class="gif-img" alt="{projects$title[i]} GIF" />
+            </a>
+          </div>
+          <div class="caption">
+            <div class="caption-title">{projects$title[i]}</div>
+            <div class="caption-subtitle">{projects$description[i]}</div>
+          </div>
+        </div>
+      '
+    ))
+  }
+  
+  html <- paste0(html, '\n</div>')
+  return(HTML(html))
+}
+
+# Generate the HTML
+image_grid_html <- generate_image_cards(projects)
+```
+
+```{r}
+#| echo: false
+# Display the HTML
+image_grid_html
+```
+
+::::
+
+<script>
+// Create cursor elements
+const cursor = document.createElement("div");
+cursor.classList.add("laser-pointer");
+document.body.appendChild(cursor);
+
+const trail = document.createElement("div");
+trail.classList.add("cursor-trail");
+document.body.appendChild(trail);
+
+// Track mouse movement
+let timeout;
+document.addEventListener("mousemove", (e) => {
+    // Move small cursor instantly
+    cursor.style.left = `${e.clientX}px`;
+    cursor.style.top = `${e.clientY}px`;
+
+    // Move trailing circle with delay
+    setTimeout(() => {
+        trail.style.left = `${e.clientX + 20}px`;
+        trail.style.top = `${e.clientY + 20}px`;
+        trail.style.opacity = 1;
+    }, 100);
+
+    // Hide trail after 1s of no movement
+    clearTimeout(timeout);
+    timeout = setTimeout(() => {
+        trail.style.opacity = 0;
+    }, 1000);
+});
+
+// Add hover effect for interactive elements
+document.querySelectorAll("a, button, img").forEach((element) => {
+    element.addEventListener("mouseenter", () => {
+        cursor.classList.add("hover-effect"); // Expand cursor
+    });
+    element.addEventListener("mouseleave", () => {
+        cursor.classList.remove("hover-effect"); // Revert cursor
+    });
+});
+
+</script>
+
+
+
+<script>
+  window.addEventListener("load", () => {
+    const motion = document.getElementById("motion");
+    const graphics = document.getElementById("graphics");
+
+    setTimeout(() => {
+      motion.style.opacity = 1;
+      motion.style.transform = "translateX(0)";
+      graphics.style.opacity = 1;
+      graphics.style.transform = "translateX(0)";
+    }, 300);
+  });
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+          observer.unobserve(entry.target); // Animate only once
+        }
+      });
+    }, {
+      threshold: 0.1
+    });
+
+    document.querySelectorAll('.fade-in-on-scroll').forEach((el) => {
+      observer.observe(el);
+    });
+  });
+</script>

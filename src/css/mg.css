@@ -1,0 +1,249 @@
+/* css styles */
+
+div {
+    text-align: center;
+    }
+
+.navbar-default { margin-bottom: 0 !important; }
+
+.navbar a {
+    color: #0068f9 !important;
+  }
+
+.navbar a:hover {
+    color: #04ff3a !important;
+}
+
+body {
+    cursor: none; /* Hide the default cursor */
+}
+
+.laser-pointer {
+    position: fixed;
+    width: 12px;
+    height: 12px;
+    background-color: #e477fc;
+    border: 0px;
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s ease-out;
+    /*mix-blend-mode: difference; /* Helps visibility on different backgrounds */
+    z-index: 9999; /* Ensures it's always on top */
+}
+
+.cursor-trail {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(228, 119, 252, 0.2);
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.5s ease-out, opacity 1s ease-out;
+    z-index: 9998;
+    opacity: 0;
+}
+
+a, button, img {
+    cursor: none; /* Prevent default cursor */
+}
+
+.hover-effect {
+    transform: translate(-50%, -50%) scale(1.75);
+    background-color: rgb(228, 119, 252);
+}
+
+h1, h2, p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+.content {
+    margin-top:  0 !important;
+    padding-top:  0 !important;
+}
+
+
+/* mg-specific*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    transition: 0.3s ease-out;
+    max-width: 100%;
+    width: 100%;
+    overscroll-behavior: none;
+}
+
+.navbar {
+    background-color: black !important;
+}
+
+.dropdown-menu {
+    background-color: black !important; /* Sets background to black */
+    border: none !important; /* Removes the border */
+}
+
+.dropdown-menu a:hover,
+.dropdown-menu a:focus {
+    background-color: black !important;
+}
+
+.hero-container {
+    height: 66vh;
+    position: relative;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 10vw;
+    transform: translateY(-50%);
+    font-size: 8vw;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    color: white;
+}
+
+#motion,
+#graphics {
+    display: inline-block;
+    opacity: 0;
+    transition: all 2s ease;
+    font-weight: bold;
+}
+
+#motion {
+    transform: translateX(-100%);
+}
+
+#graphics {
+    transform: translateX(100%);
+    padding-left: 4vw;
+}
+
+.flex-image-grid {
+    width: 100vw;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 2rem;
+    row-gap: 3rem;
+    padding: 3rem 2vw;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.image-card {
+    flex: 0 1 calc(33.333% - 2rem);
+    max-width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.image-wrapper {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+}
+
+.image-wrapper img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: border-radius 0.3s ease, opacity 0.3s ease;
+    border-radius: 0;
+}
+
+.image-wrapper:hover img {
+    border-bottom-right-radius: 25vmin;
+}
+
+/* Green dot on hover */
+.image-wrapper::after {
+    content: '';
+    position: absolute;
+    bottom: 1vmin;
+    right: 1vmin;
+    width: 5vmin;
+    height: 5vmin;
+    background-color: #04ff3a;
+    border-radius: 50%;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 5;
+}
+
+.image-wrapper:hover::after {
+    opacity: 1;
+}
+
+.static-img {
+    z-index: 2;
+    opacity: 1;
+}
+
+.gif-img {
+    z-index: 1;
+    opacity: 0;
+}
+
+.image-wrapper:hover .static-img {
+    opacity: 0;
+}
+
+.image-wrapper:hover .gif-img {
+    opacity: 1;
+}
+
+.caption {
+    margin-top: 0.75rem;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.caption-title,
+  .caption-subtitle {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.caption-title {
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 1.2;
+    color: white;
+}
+
+.caption-subtitle {
+    font-weight: normal;
+    font-size: 0.95rem;
+    color: white;
+    line-height: 1.2;
+}
+
+
+.fade-in-on-scroll {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    will-change: opacity, transform;
+}
+
+.fade-in-on-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
