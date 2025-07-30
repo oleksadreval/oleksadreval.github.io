@@ -12,8 +12,8 @@ lightbox: auto
 :::{.hero-container}
 
 <div class="hero-text">
-  <span id="motion">Motion</span><br>
-  <span id="graphics">Graphics</span>
+  <span id="motion">Mot<span class="i-base">ı<span class="dot green-dot">.</span></span>on</span><br>
+  <span id="graphics">Graph<span class="i-base">ı<span class="dot pink-dot bouncing">.</span></span>cs</span>
 </div>
 
 :::
