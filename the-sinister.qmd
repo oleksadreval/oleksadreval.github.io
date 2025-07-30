@@ -1,0 +1,171 @@
+---
+pagetitle: "The Sinister Secret of Shady Grove"
+format:
+  html:
+    theme: lux
+    css: src/css/mg-sinister.css
+lightbox: auto
+---
+
+::::{.column-screen}
+
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/Neaga_91LT8?si=GFunnlSyXF9yW9qO"
+    title="The Sinister Secret of Shady Grove"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+```{=html}
+<section class="two-col-section hidden-until-scroll">
+  <div class="two-col-wrapper">
+    <div class="col-left">
+    <h1>The Sinister Secret<br>of Shady Groove</h1>
+  </div>
+  <div class="col-right">
+    <h3>Prologue animatic<br>2024</h3>
+    <br>
+    <p>Full creative service: from storyboard to animation.</p>
+    <br>
+    <p>
+      This prologue animatic was created as an introduction to an AAA dark fantasy game, setting the tone for its epic narrative and immersive world. Here, I delivered the full creative and production pipeline: developing the storyboard, illustrating every frame, and animating the final sequence to match the game's mood and pacing. The result is a visually rich, emotionally driven piece that captures the essence of the story before gameplay begins.
+    </p>
+    <br>
+    <p>Illustrations and video: Oleksandra Dreval</p>
+    <p>Claire: Naomi Steele</p>
+    <p>Music: Music for Messier</p>
+    <p>Writer: Wes C.</p>
+    </div>
+  </div>
+</section>
+```
+
+::: gallery
+
+![](src/images/projects-mg/the-sinister/Prologue_FS_1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_3.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_4.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_5.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_6.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_7.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_9.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_10.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_11.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_12.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_13.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_14.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/the-sinister/Prologue_FS_15.webp){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+
+:::
+
+
+```{=html}
+<div style="padding-top: 16rem;"></div>
+<div class="two-col-wrapper">
+  <div class="col-left">
+    <h1>Storyboard</h1>
+  </div>
+  <div class="col-right">
+  </div>
+</div>
+<div style="padding-top: 4rem;"></div>
+
+```
+
+
+```{=html}
+<div class="media-grid">
+  <div class="main-video">
+    <iframe
+        src="https://www.youtube.com/embed/Orcp4j7izdI?si=tiLBcImWw80VprZa"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+    ></iframe>
+  </div>
+  <div class="grid-image" style="visibility: hidden;"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/Scratch.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/Storyboard_Claire.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/Storyboard_ClaireEyes.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/StoryBoard_slide2 copy.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/StoryBoard_slide5.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/StoryBoard_slide8.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/StoryBoard_slide11.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/StoryBoard_slide12.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+  <div class="grid-image"><img src="src/images/projects-mg/the-sinister/LastSlide.webp" alt="Oleksandra Dreval Motion Graphics Vancouver"></div>
+</div>
+
+```
+
+<div style="padding-top: 16rem;"></div>
+<h4>Explore additional projects</h4>
+::::
+
+{{< include _carousel.qmd >}}
+
+
+<script>
+  function revealOnScroll() {
+    const sections = document.querySelectorAll('.hidden-until-scroll');
+    const triggerBottom = window.innerHeight * 0.9;
+
+    sections.forEach(section => {
+      const sectionTop = section.getBoundingClientRect().top;
+      if (sectionTop < triggerBottom) {
+        section.classList.add('visible');
+      }
+    });
+  }
+
+  window.addEventListener('scroll', revealOnScroll);
+  window.addEventListener('load', revealOnScroll);
+</script>
+
+
+
+<script>
+// Create cursor elements
+const cursor = document.createElement("div");
+cursor.classList.add("laser-pointer");
+document.body.appendChild(cursor);
+
+const trail = document.createElement("div");
+trail.classList.add("cursor-trail");
+document.body.appendChild(trail);
+
+// Track mouse movement
+let timeout;
+document.addEventListener("mousemove", (e) => {
+    // Move small cursor instantly
+    cursor.style.left = `${e.clientX}px`;
+    cursor.style.top = `${e.clientY}px`;
+
+    // Move trailing circle with delay
+    setTimeout(() => {
+        trail.style.left = `${e.clientX + 20}px`;
+        trail.style.top = `${e.clientY + 20}px`;
+        trail.style.opacity = 1;
+    }, 100);
+
+    // Hide trail after 1s of no movement
+    clearTimeout(timeout);
+    timeout = setTimeout(() => {
+        trail.style.opacity = 0;
+    }, 1000);
+});
+
+// Add hover effect for interactive elements
+document.querySelectorAll("a, button, img").forEach((element) => {
+    element.addEventListener("mouseenter", () => {
+        cursor.classList.add("hover-effect"); // Expand cursor
+    });
+    element.addEventListener("mouseleave", () => {
+        cursor.classList.remove("hover-effect"); // Revert cursor
+    });
+});
+
+</script>

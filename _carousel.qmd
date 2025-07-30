@@ -1,0 +1,54 @@
+
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/flickity@2.2.2/dist/flickity.min.css">
+<script src="https://unpkg.com/flickity@2.2.2/dist/flickity.pkgd.min.js"></script>
+
+
+```{r}
+#| echo: false
+library(jsonlite)
+
+generate_carousel <- function(projects) {
+  carousel_html <- '<div class="carousel">\n'
+
+  for (project in projects) {
+    carousel_html <- paste0(carousel_html,
+                            sprintf('  <a href="%s" class="carousel-cell">\n', project$link),
+                            sprintf('      <img src="%s" alt="%s">\n', project$image, project$title),
+                            '  </a>\n')
+  }
+
+  carousel_html <- paste0(carousel_html, '  </div>')
+  return(carousel_html)
+}
+
+# Load project data from JSON file
+projects <- fromJSON('src/configs/projects-mg.json', simplifyVector = FALSE)
+
+# Generate the carousel
+carousel <- generate_carousel(projects)
+
+```
+
+
+:::{.column-screen}
+
+```{r}
+#| echo: false
+#| output: asis
+
+cat(carousel)
+```
+
+:::
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var flkty = new Flickity('.carousel', {
+      // options
+      cellAlign: 'left',
+      contain: true,
+      autoPlay: true,
+      wrapAround: true
+    });
+  });
+</script>
