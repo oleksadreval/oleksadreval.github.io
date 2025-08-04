@@ -28,9 +28,9 @@
         "description": "On-air Motion Graphics"
     },
     {
-      "title": "Forensic Files",
-      "link": "index.html",
-      "image": "src/images/projects-mg/Forensic_WebProject_SF.webp",
+      "title": "Forensic Investigation",
+      "link": "forensic-investigation.html",
+      "image": "src/images/projects-mg/Forensic_WebProject_SF.jpg",
       "hover_image": "src/images/projects-mg/Forensic_OD_WebProject.webp",
       "description": "Title sequence"
     },
