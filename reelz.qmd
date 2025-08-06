@@ -1,0 +1,177 @@
+---
+pagetitle: "REELZ TV"
+format:
+  html:
+    theme: lux
+    css: src/css/mg-sinister.css
+---
+
+::::{.column-screen}
+
+<div style="padding-top: 4rem;"></div>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/C-zGZJag4tc?si=LsPBNPofJ-XoF0bO"
+    title="REELZ TV"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+```{=html}
+<div style="padding-top: 8rem;"></div>
+<section class="two-col-section hidden-until-scroll">
+  <div class="two-col-wrapper">
+    <div class="col-left">
+    <h2>REELZ TV</h2>
+  </div>
+  <div class="col-right">
+    <h3>On-air Motion Graphics<br>2018-2020</h3>
+    <br>
+    <p>
+      On-air motion graphics used for advertising and promotional campaigns of new and existing TV shows aired on the national TV channel REELZ. Rough cuts for each video were provided by the team of video editors, where I used rotoscoping, tracking, editing, compositing, and other techniques to create the advertisements and extended the visuals with addition of various motion graphics and VFX on each shot to produce final renders.
+    </p>
+    </div>
+  </div>
+</section>
+<div style="padding-top: 8rem;"></div>
+```
+
+::::{.columns}
+
+:::{.column width="49%"}
+
+<div class="player">
+{{< video https://www.youtube.com/embed/tV-ya1nzqo4?si=LZ8JzgUGKWhgcrdt
+    title="Notorious"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/2YyMICrgbSQ?si=o449HxdNad21YqnS
+    title="Breaking The Band TV ad"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/3IlFuvG2GIo?si=Z84Dwe74FHaCq75J
+    title="Gangsters TV ad"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/yBJyk6Ifh8Q?si=wGBpqqQIRPuom-ny
+    title="JWG"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+
+:::
+
+:::{.column width="1%"}
+
+:::
+
+:::{.column width="49%"}
+
+<div class="player">
+{{< video https://www.youtube.com/embed/28giEqM_sTY?si=35DrqFbm5-5kKicH
+    title="REELZ TV ad EJ"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/jB3DW7eLPV8?si=dhAHWSVDJfdHGbdd
+    title="REELZ TV ad SK"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+<div class="player">
+{{< video https://www.youtube.com/embed/tn_gtOPcPMs?si=_hRKgKGjt_fQj7iX
+    title="REELZ Special AH"
+    start="0"
+    aspect-ratio="16x9"
+>}}
+</div>
+
+:::
+
+::::
+
+<div style="padding-top: 8rem;"></div>
+<h4>Explore additional projects</h4>
+<div style="padding-top: 8rem;"></div>
+
+::::
+
+{{< include _carousel.qmd >}}
+
+
+<script>
+  function revealOnScroll() {
+    const sections = document.querySelectorAll('.hidden-until-scroll');
+    const triggerBottom = window.innerHeight * 0.9;
+
+    sections.forEach(section => {
+      const sectionTop = section.getBoundingClientRect().top;
+      if (sectionTop < triggerBottom) {
+        section.classList.add('visible');
+      }
+    });
+  }
+
+  window.addEventListener('scroll', revealOnScroll);
+  window.addEventListener('load', revealOnScroll);
+</script>
+
+
+
+<script>
+// Create cursor elements
+const cursor = document.createElement("div");
+cursor.classList.add("laser-pointer");
+document.body.appendChild(cursor);
+
+const trail = document.createElement("div");
+trail.classList.add("cursor-trail");
+document.body.appendChild(trail);
+
+// Track mouse movement
+let timeout;
+document.addEventListener("mousemove", (e) => {
+    // Move small cursor instantly
+    cursor.style.left = `${e.clientX}px`;
+    cursor.style.top = `${e.clientY}px`;
+
+    // Move trailing circle with delay
+    setTimeout(() => {
+        trail.style.left = `${e.clientX + 20}px`;
+        trail.style.top = `${e.clientY + 20}px`;
+        trail.style.opacity = 1;
+    }, 100);
+
+    // Hide trail after 1s of no movement
+    clearTimeout(timeout);
+    timeout = setTimeout(() => {
+        trail.style.opacity = 0;
+    }, 1000);
+});
+
+// Add hover effect for interactive elements
+document.querySelectorAll("a, button, img").forEach((element) => {
+    element.addEventListener("mouseenter", () => {
+        cursor.classList.add("hover-effect"); // Expand cursor
+    });
+    element.addEventListener("mouseleave", () => {
+        cursor.classList.remove("hover-effect"); // Revert cursor
+    });
+});
+
+</script>
