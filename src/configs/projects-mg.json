@@ -35,10 +35,10 @@
       "description": "Title sequence"
     },
     {
-      "title": "3AG Systems",
-      "link": "index.html",
-      "image": "src/images/projects-mg/3AG_OD_WebProject_Frame.webp",
-      "hover_image": "src/images/projects-mg/3AG_OD_WebProject_anim.webp",
-      "description": "SaaS promos"
+      "title": "Digital Twin",
+      "link": "digital-twin.html",
+      "image": "src/images/projects-mg/DigitalTwin_SF.webp",
+      "hover_image": "src/images/projects-mg/DigitalTwin.webp",
+      "description": "Safety videos"
     }
 ]

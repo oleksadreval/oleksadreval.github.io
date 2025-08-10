@@ -28,7 +28,7 @@ website:
       - text: "Motion Graphics & VFX"
         menu:
         - text: "Motion Graphics"
-          href: motion_graphics.qmd
+          href: motion-graphics.qmd
         - text: "CG & Breakdowns"
           href: compositing_breakdowns.qmd
         - text: "Digital Media"
