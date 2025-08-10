@@ -102,23 +102,28 @@ lightbox: auto
 [![](src/images/highlights/BackPlate.webp){style="column-span: none; border-radius: 20px;"}](urban-legends.html)
 [![](src/images/highlights/btb_socialtest_theincident_suns109.webp){style="column-span: none; border-radius: 20px;"}](reelz.html)
 ![](src/images/highlights/WeadCamera1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/WinterOrcaTitle.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/Girl20s.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+[![](src/images/projects-mg/digital-twin/Process_1.webp){style="column-span: none; border-radius: 20px;"}](digintal-twin.html)
+[![](src/images/projects-mg/digital-twin/XrayView.webp){style="column-span: none; border-radius: 20px;"}](digital-twin.html)
 ![](src/images/highlights/MassiveLandscapeRiver%203.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/MiniatureCanada1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/MiniatureCanada2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 [![](src/images/highlights/JapaneseUrbanLegends_Breakdown_Cloth.jpg){style="column-span: none; border-radius: 20px;"}](urban-legends.html)
 ![](src/images/highlights/OceanShore.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/OceanStairs.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/Girl20s.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/StrategicApproach_v2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/RoadCar_Back2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/RoadCar_Side2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/ShipSequence.0237.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/Thumbnail.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 [![](src/images/highlights/WashroomHalf.jpg){style="column-span: none; border-radius: 20px;"}](urban-legends.html)
+![](src/images/highlights/WinterOrcaTitle.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
+![](src/images/highlights/OLeksandraDreval_IGG_Art_Test_Building7_3Levels.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/WavyBrainStudiosLogo3_Color_Logo_On_Black.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 [![](src/images/projects-mg/the-sinister/Prologue_FS_1.webp){style="column-span: none; border-radius: 20px;"}](the-sinister.html)
 [![](src/images/projects-mg/the-sinister/Prologue_FS_2.webp){style="column-span: none; border-radius: 20px;"}](the-sinister.html)
+[![](src/images/projects-mg/mysterious-forest/MysteriousForest_SF_2.webp){style="column-span: none; border-radius: 20px;"}](mysterious-forest.html)
+[![](src/images/projects-mg/forensic-investigation/ForensicFiles_WebProject_SF_4.webp){style="column-span: none; border-radius: 20px;"}](forensic-investigation.html)
 ![](src/images/highlights/MakeEverydDayEarthDay_Ocean1080x1080.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/MakeEverydDayEarthDay_Earth1080x1080.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/Headphones_4.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
@@ -129,8 +134,6 @@ lightbox: auto
 ![](src/images/highlights/BASIL_MOKUP.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/FingerPointing.jpg){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/Logo_WavybrainStudios_T-Shirt_Pink.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-![](src/images/highlights/OLeksandraDreval_IGG_Art_Test_Building7_3Levels.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-
 :::
 
 ::::
