@@ -7,6 +7,7 @@ project:
 website:
   google-analytics: "G-XY7N52R9B3"
   title: "Oleksandra Dreval: Motion Graphics Design and animation"
+  description: "Oleksandra Dreval is a Vancouver-based Motion Graphics and VFX artist, UE5 Generalist specializing in 2D/3D animation, branding and demo reels for TV, games, marketing and digital media."
   image:  src/images/MyLogoColour_YouTube.jpg
   favicon:  src/images/MyLogoColour_YouTube.jpg
   back-to-top-navigation: true
@@ -27,7 +28,7 @@ website:
       - text: "Motion Graphics & VFX"
         menu:
         - text: "Motion Graphics"
-          href: motion_graphics.qmd
+          href: motion-graphics.qmd
         - text: "CG & Breakdowns"
           href: compositing_breakdowns.qmd
         - text: "Digital Media"

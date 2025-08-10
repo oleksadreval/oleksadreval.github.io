@@ -40,5 +40,26 @@
   },
   "index_wip.qmd": {
     "index_wip.html": "7b879a9a"
+  },
+  "motion-graphics.qmd": {
+    "motion-graphics.html": "dbdbc61c"
+  },
+  "the-sinister.qmd": {
+    "the-sinister.html": "4e19b1f5"
+  },
+  "forensic-investigation.qmd": {
+    "forensic-investigation.html": "0aa09812"
+  },
+  "mysterious-forest.qmd": {
+    "mysterious-forest.html": "ea15e345"
+  },
+  "urban-legends.qmd": {
+    "urban-legends.html": "ecd01f7e"
+  },
+  "reelz.qmd": {
+    "reelz.html": "90ee7f7e"
+  },
+  "digital-twin.qmd": {
+    "digital-twin.html": "1f3c162a"
   }
 }

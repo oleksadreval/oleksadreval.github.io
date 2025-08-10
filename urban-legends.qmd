@@ -1,0 +1,151 @@
+---
+pagetitle: "Urban legends"
+format:
+  html:
+    theme: lux
+    css: src/css/mg-sinister.css
+lightbox: auto
+---
+
+::::{.column-screen}
+
+<div style="padding-top: 4rem;"></div>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/v4rfYpLfej4?si=0O_PuZrZIQZWWg-M"
+    title="Japanese Urban Legends"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+```{=html}
+<div style="padding-top: 8rem;"></div>
+<section class="two-col-section hidden-until-scroll">
+  <div class="two-col-wrapper">
+    <div class="col-left">
+    <h2>Japanese<br>Urban Legends</h2>
+  </div>
+  <div class="col-right">
+    <h3>Title sequence<br>2024</h3>
+    <br>
+    <p>
+      Did you hear about Aka Manto legend? This title sequence for the documentary about the Japanese Urban Legends was created with a short turnaround time using a blend of UE5, Cinema 4D, and DaVinci Resolve. I have delivered all required assets, textures, and materials, as well as all required scene setup, lighting, and post-production to deliver visually compelling title sequence matching the mood and feel of the Aka Manto legend story.
+    </p>
+    </div>
+  </div>
+</section>
+<div style="padding-top: 8rem;"></div>
+```
+
+::: gallery
+
+![](src/images/projects-mg/urban-legends/breakdown.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/BackPlate.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/Bathroom.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/WashroomHalf.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/Cabinets.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/CabinetsHalf.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/Cloth.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/Lamp.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/LampHalf.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+![](src/images/projects-mg/urban-legends/UE_RedHall.avif){.lightbox style="column-span: none; border-radius: 20px;" group="animatic"}
+
+:::
+
+```{=html}
+<div style="padding-top: 8rem;"></div>
+<section class="two-col-section hidden-until-scroll">
+  <div class="two-col-wrapper">
+    <div class="col-left">
+    <h2>Breakdown</h2>
+  </div>
+  <div class="col-right"></div>
+</section>
+<div style="padding-top: 8rem;"></div>
+```
+
+```{=html}
+<div class="media-grid">
+  <div class="main-video">
+    <iframe
+        src="https://www.youtube.com/embed/m3nfmCL18tM?si=e2LcKaVoc08VPOCj"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+    ></iframe>
+  </div>
+  <div class="grid-image" style="visibility: hidden;"></div>
+</div>
+
+```
+
+<h4>Explore additional projects</h4>
+<div style="padding-top: 8rem;"></div>
+::::
+
+{{< include _carousel.qmd >}}
+
+
+<script>
+  function revealOnScroll() {
+    const sections = document.querySelectorAll('.hidden-until-scroll');
+    const triggerBottom = window.innerHeight * 0.9;
+
+    sections.forEach(section => {
+      const sectionTop = section.getBoundingClientRect().top;
+      if (sectionTop < triggerBottom) {
+        section.classList.add('visible');
+      }
+    });
+  }
+
+  window.addEventListener('scroll', revealOnScroll);
+  window.addEventListener('load', revealOnScroll);
+</script>
+
+
+
+<script>
+// Create cursor elements
+const cursor = document.createElement("div");
+cursor.classList.add("laser-pointer");
+document.body.appendChild(cursor);
+
+const trail = document.createElement("div");
+trail.classList.add("cursor-trail");
+document.body.appendChild(trail);
+
+// Track mouse movement
+let timeout;
+document.addEventListener("mousemove", (e) => {
+    // Move small cursor instantly
+    cursor.style.left = `${e.clientX}px`;
+    cursor.style.top = `${e.clientY}px`;
+
+    // Move trailing circle with delay
+    setTimeout(() => {
+        trail.style.left = `${e.clientX + 20}px`;
+        trail.style.top = `${e.clientY + 20}px`;
+        trail.style.opacity = 1;
+    }, 100);
+
+    // Hide trail after 1s of no movement
+    clearTimeout(timeout);
+    timeout = setTimeout(() => {
+        trail.style.opacity = 0;
+    }, 1000);
+});
+
+// Add hover effect for interactive elements
+document.querySelectorAll("a, button, img").forEach((element) => {
+    element.addEventListener("mouseenter", () => {
+        cursor.classList.add("hover-effect"); // Expand cursor
+    });
+    element.addEventListener("mouseleave", () => {
+        cursor.classList.remove("hover-effect"); // Revert cursor
+    });
+});
+
+</script>
