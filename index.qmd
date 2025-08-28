@@ -28,14 +28,14 @@ lightbox: auto
     <div class="pin-wrap-sticky">
       <div class="pin-wrap">
         <h3>
-            The Things<p>
-            I Do<p>
-            <span class="highlight">Well</span>
+            Check out<p>
+            My<p>
+            <span class="highlight">Work</span>
         </h3>
         <a href="/compositing_breakdowns.html">
             <img src="src/images/sections/CG&VFX.webp" alt="">
         </a>
-        <a href="/motion_graphics.html">
+        <a href="/motion-graphics.html">
             <img src="src/images/sections/MotionGraphics.webp" alt="">
         </a>
         <a href="/graphic_design_social_media_gfx.html">
