@@ -9,9 +9,12 @@ about:
   template: jolla
   image: src/images/OleksandraDreval.jpg
   links:
+    - text: Send Me Email
+      href: mailto:hello@oleksadreval.com
+      icon: envelope
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/oleksandra-dreval-ba740a149/
+      href: https://www.linkedin.com/in/oleksadreval/
     - icon: youtube
       text: YouTube
       href: https://www.youtube.com/channel/UCM7RvYC0Huahd_RZ4vDhCxw
