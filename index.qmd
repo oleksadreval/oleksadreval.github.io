@@ -102,8 +102,6 @@ lightbox: auto
 [![](src/images/highlights/BackPlate.webp){style="column-span: none; border-radius: 20px;"}](urban-legends.html)
 [![](src/images/highlights/btb_socialtest_theincident_suns109.webp){style="column-span: none; border-radius: 20px;"}](reelz.html)
 ![](src/images/highlights/WeadCamera1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
-[![](src/images/projects-mg/digital-twin/Process_1.webp){style="column-span: none; border-radius: 20px;"}](digital-twin.html)
-[![](src/images/projects-mg/digital-twin/XrayView.webp){style="column-span: none; border-radius: 20px;"}](digital-twin.html)
 ![](src/images/highlights/MassiveLandscapeRiver%203.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/MiniatureCanada1.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}
 ![](src/images/highlights/MiniatureCanada2.webp){.lightbox style="column-span: none; border-radius: 20px;" group="my-gallery"}

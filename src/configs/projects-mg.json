@@ -33,12 +33,5 @@
       "image": "src/images/projects-mg/Forensic_WebProject_SF.jpg",
       "hover_image": "src/images/projects-mg/Forensic_OD_WebProject.webp",
       "description": "Title sequence"
-    },
-    {
-      "title": "Digital Twin",
-      "link": "digital-twin.html",
-      "image": "src/images/projects-mg/DigitalTwin_SF.webp",
-      "hover_image": "src/images/projects-mg/DigitalTwin.webp",
-      "description": "Safety videos"
     }
 ]
