@@ -32,7 +32,7 @@ Hi! :wave:
 <br/>
 I am Motion Graphics Designer :clapper: experienced in animation :boom:, branding :art:, production :tophat:, games :video_game:, and UI/UX design :computer:. I create awesome motion graphics for TV, marketing, and social media. Besides that I am a universe lover always eager to learn new cool stuff and grow my skills!
 <br/>
-I am originally from Ukraine, but have travelled the world since 2014 and gained experience working for variety of companies in different markets across 2 continents. Now I live in Vancouver area of beautiful BC, Canada. :bear:
+I am originally from Ukraine, but have travelled the world and gained experience working for variety of companies in different markets across 2 continents. Now I live in Vancouver area of beautiful BC, Canada. :bear:
 </div>
 
 <br/><br/>
@@ -46,15 +46,8 @@ Wavybrain Studios | Level Artist (UE5) | Vancouver, BC :canada: | 2024 - 2025
 
 3AG Systems | Lead Designer | Burnaby, BC :canada: | 2021 - 2025
 
-mimik Technologiy Inc | Graphic Designer | Vancouver, BC :canada: | 2021 - 2021
-
-Wawybrain Studios | Character Artist | Albuquerque, NM :us: | 2020 - 2021
-
 REELZ TV | Motion Graphics Designer | Albuquerque, NM :us: | 2018 - 2020
 
-Universal Phoenix Group | Level Artist | Atlanta, GA :us:| 2017 - 2017
-
-RightBrain Training | Graphic Designer | Kyiv :ukraine: | 2014 - 2017
 
 ## Skills
 
@@ -70,7 +63,7 @@ Other: Figma, Unreal Engine, HTML/CSS, Midjourney, BlueWillow
 
 ## Education
 
-MSc in Computer Graphics and Design | Step IT Academy | Ukraine :ukraine:
+3D Animation and Visual Effects | Vancouver Film School | Canada :canada:
 
 MSc in Biology | Donetsk National University | Ukraine :ukraine:
 
